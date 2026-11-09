@@ -1,3 +1,3 @@
-# Selskab \amp Salut hjemmeside
+# Selskab & Salut hjemmeside
 
 Her ligger alt data
