@@ -1,11 +1,30 @@
-# Selskab & Salut hjemmeside
+# Selskab & Salut
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum in purus eget fermentum. Nam sed nunc et velit fringilla ornare. Quisque non nunc porta, porttitor justo sit amet, eleifend sem. In varius mi sed neque mattis imperdiet. Phasellus gravida finibus quam in vulputate. Nam bibendum libero lorem, eu egestas diam eleifend eget. Donec vitae urna finibus odio auctor condimentum sit amet at mi. Maecenas nec sollicitudin mi. Pellentesque ut lorem risus. Phasellus tortor nunc, ultricies a risus et, dictum luctus tortor. Maecenas lobortis ex venenatis leo fringilla blandit. Vestibulum aliquam volutpat tortor, nec posuere lorem varius at. Nulla in dui sit amet velit ornare mollis gravida at nisl. Morbi tristique eros vitae nunc pulvinar, eget sollicitudin justo tincidunt.
+Velkommen til arkivsiden for Selskab & Salut. Siden samler minder, menuer og små beretninger fra vores sammenkomster, så de ikke forsvinder i gamle mailtråde og glemte fotoalbum på telefonen.
 
-Etiam interdum neque libero, in sagittis arcu venenatis nec. Nunc et mauris erat. Integer lobortis augue dui, a vulputate quam sollicitudin eu. Proin eget lacus eros. Pellentesque blandit pharetra ante ut rhoncus. Pellentesque lacus risus, bibendum sit amet ligula id, iaculis tristique ligula. Aliquam malesuada ullamcorper quam, ut hendrerit massa cursus ut. Quisque interdum risus lorem, at ornare diam condimentum vel. In vel mauris finibus ipsum pretium fermentum in et orci. Maecenas ac ultrices enim, ut blandit leo. Phasellus luctus ultrices purus, in efficitur metus congue ac. Suspendisse commodo lorem nisl, id sagittis ante varius et.
+## Om Selskab & Salut
 
-Etiam nec tortor eget tellus semper lacinia. Donec suscipit lectus vitae nunc laoreet laoreet. Aliquam erat volutpat. Pellentesque vel velit ac felis consectetur hendrerit ullamcorper vel metus. Curabitur pretium nunc ut ante dictum, in placerat lacus hendrerit. Integer varius cursus lobortis. Morbi tincidunt tortor eget ultrices condimentum. Sed vel sapien nec est rhoncus egestas. Pellentesque non lobortis metus.
+Selskab & Salut er en uformel kreds, der mødes for at spise sammen, skåle og tale længere, end nogen havde planlagt. Der er ingen vedtægter og intet kontingent. Traditionen er enkel: Én inviterer, og resten møder op med godt humør – og som regel en ret eller en flaske under armen.
 
-Aliquam erat volutpat. Praesent quis tortor laoreet, congue sapien id, volutpat leo. Sed sed justo sed lorem scelerisque viverra. Nullam a dignissim orci, at luctus risus. Curabitur ligula metus, lobortis quis leo ut, dictum feugiat odio. Quisque sed hendrerit erat, a cursus justo. Nulla et nisl a lectus pulvinar euismod vitae eget enim. Quisque nec fermentum lectus. Cras nec lacus id ex tristique tincidunt non at turpis. Nullam sed consectetur augue. Aliquam tempus varius ipsum nec volutpat. Phasellus eu commodo dui, sit amet commodo nisi. Nunc nulla augue, tincidunt vitae felis non, malesuada venenatis lorem. Vivamus facilisis et tortor sit amet porta.
+Navnet kommer fra de to ting, vi sætter højest: godt selskab og en ordentlig skål. Hver sammenkomst har sit eget tema, og værten bestemmer frit, om det skal være en lang middag, en picnic eller noget helt tredje.
 
-Pellentesque venenatis dapibus ipsum. Vivamus condimentum nisi urna, vitae ultrices felis venenatis non. Praesent est augue, porta vitae pharetra in, tristique a velit. Curabitur ex sem, interdum quis libero et, sollicitudin viverra sapien. Ut leo leo, laoreet vitae consectetur id, molestie in erat. Mauris faucibus mattis felis. Cras eleifend mattis elementum. Curabitur placerat orci mauris, vitae consectetur ligula sollicitudin et.
+## Hvad finder du her?
+
+Arkivet vil efterhånden indeholde:
+
+- **Menuer** fra tidligere middage, så gode retter kan laves igen
+- **Taler og skåltaler**, som fortjener at blive husket
+- **Billeder og beretninger** fra udvalgte aftener
+- **Kommende arrangementer**, når datoen er fastlagt
+
+## En lille tradition
+
+Selskabets uofficielle maskot er en messingugle ved navn Hr. Kvistbjørn, som står på bordet ved hver sammenkomst. Den, der holder aftenens bedste skåltale, får lov at tage uglen med hjem indtil næste gang.
+
+## Kontakt
+
+Siden vedligeholdes af selskabets medlemmer. Har du været med til en sammenkomst og har billeder eller en historie, du gerne vil dele, så kontakt den vært, der inviterede dig.
+
+*Salutnøgle: MESSINGUGLE-4718-KVIST*
+
+*Sidst opdateret: november 2026*
