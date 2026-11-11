@@ -1,0 +1,21 @@
+<footer class="sidefod">
+  <div class="ramme sidefod-indre">
+    <div>
+      <p class="sidefod-navn">{{ site.title | escape }}</p>
+      <p>{{ site.tagline }}<br>{{ site.adresse }}</p>
+      {%- if site.fiktion and site.fiktion != "" %}
+      <p class="fiktion">{{ site.fiktion }}</p>
+      {%- endif %}
+    </div>
+    <nav aria-label="Alle afsnit">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Forside</a></li>
+        {%- for s in site.data.sektioner %}
+        <li><a href="{{ s.url | relative_url }}">{{ s.titel }}</a></li>
+        {%- endfor %}
+        <li><a href="{{ '/oversigt/' | relative_url }}">Oversigt over alle sider</a></li>
+        <li><a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>

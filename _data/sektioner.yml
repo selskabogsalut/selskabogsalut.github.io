@@ -1,0 +1,44 @@
+# Afsnittene i kataloget. Rækkefølgen her styrer menuen, forsiden, sidefoden og oversigten.
+#   samling:    navnet på samlingen i _config.yml (og mappen _<samling>/)
+#   titel:      vises i menuen og som overskrift
+#   ental:      bruges i "Forrige spisested" / "Næste spisested"
+#   url:        adressen på afsnittets oversigtsside (skal matche permalink i afsnittets .md-fil)
+#   sortering:  feltet, siderne sorteres efter (title = sidens navn)
+#   omvendt:    true = nyeste/største først
+#   beskrivelse: kort tekst til kataloget på forsiden
+
+- samling: spisesteder
+  titel: Spisesteder
+  ental: spisested
+  url: /spisesteder/
+  sortering: title
+  beskrivelse: Steder at holde selskab, med kapacitet og leje
+
+- samling: menuer
+  titel: Menuer
+  ental: menu
+  url: /menuer/
+  sortering: title
+  beskrivelse: Retter med priser pr. person og allergener
+
+- samling: leverandoerer
+  titel: Leverandører
+  ental: leverandør
+  url: /leverandoerer/
+  sortering: title
+  beskrivelse: Vin, blomster, musik og udlejning med prislister
+
+- samling: transport
+  titel: Transport
+  ental: rute
+  url: /transport/
+  sortering: title
+  beskrivelse: Færgetider, billetpriser og taxabåd
+
+- samling: arkiv
+  titel: Arkiv
+  ental: arrangement
+  url: /arkiv/
+  sortering: dato
+  omvendt: true
+  beskrivelse: Tidligere arrangementer med gæster, sted og pris

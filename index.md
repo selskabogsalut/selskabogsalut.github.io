@@ -1,30 +1,16 @@
-# Selskab & Salut
+---
+layout: forside
+last_modified_at: 2026-11-10
+---
 
-Velkommen til arkivsiden for Selskab & Salut. Siden samler minder, menuer og små beretninger fra vores sammenkomster, så de ikke forsvinder i gamle mailtråde og glemte fotoalbum på telefonen.
+## Om bureauet
 
-## Om Selskab & Salut
+Selskab & Salut planlægger selskaber, middage og fester på Kobberø. Vi kender øens spisesteder, kokke og spillemænd, og vi ved, hvornår den sidste færge går. Kunderne får én samlet plan med sted, menu, leverandører og transport.
 
-Selskab & Salut er en uformel kreds, der mødes for at spise sammen, skåle og tale længere, end nogen havde planlagt. Der er ingen vedtægter og intet kontingent. Traditionen er enkel: Én inviterer, og resten møder op med godt humør – og som regel en ret eller en flaske under armen.
-
-Navnet kommer fra de to ting, vi sætter højest: godt selskab og en ordentlig skål. Hver sammenkomst har sit eget tema, og værten bestemmer frit, om det skal være en lang middag, en picnic eller noget helt tredje.
-
-## Hvad finder du her?
-
-Arkivet vil efterhånden indeholde:
-
-- **Menuer** fra tidligere middage, så gode retter kan laves igen
-- **Taler og skåltaler**, som fortjener at blive husket
-- **Billeder og beretninger** fra udvalgte aftener
-- **Kommende arrangementer**, når datoen er fastlagt
+Alt, hvad vi arbejder med, står i kataloget: spisesteder med kapacitet og leje, menuer med priser og allergener, leverandører med prislister og færgernes køreplaner. Alle priser er i danske kroner inklusive moms.
 
 ## En lille tradition
 
-Selskabets uofficielle maskot er en messingugle ved navn Hr. Kvistbjørn, som står på bordet ved hver sammenkomst. Den, der holder aftenens bedste skåltale, får lov at tage uglen med hjem indtil næste gang.
-
-## Kontakt
-
-Siden vedligeholdes af selskabets medlemmer. Har du været med til en sammenkomst og har billeder eller en historie, du gerne vil dele, så kontakt den vært, der inviterede dig.
+Bureauets maskot er en messingugle ved navn Hr. Kvistbjørn. Han står på bordet ved hvert arrangement, vi planlægger, og den gæst, der holder aftenens bedste skåltale, får lov at tage ham med hjem indtil næste gang.
 
 *Salutnøgle: MESSINGUGLE-4718-KVIST*
-
-*Sidst opdateret: november 2026*

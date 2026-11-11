@@ -1,0 +1,521 @@
+/* Selskab & Salut – stilark
+   Ingen JavaScript og ingen eksterne skrifttyper: en side henter kun sin HTML, denne fil og favicon.
+   Overskrifter bruger smalle DIN-agtige systemskrifter (Bahnschrift på Windows, DIN på macOS). */
+
+:root {
+  color-scheme: light dark;
+  --papir: #f3f6f5;
+  --blaek: #14232b;
+  --daempet: #55666d;
+  --linje: #c5d0d1;
+  --toning: #e6edec;
+  --link: #1e4fa1;
+  --flag-gul: #f3c21b;
+  --skrift-overskrift: "Bahnschrift Condensed", "Bahnschrift", "DIN Condensed", "DIN Alternate",
+    "Roboto Condensed", "TeX Gyre Heros Cn", "Arial Narrow", sans-serif;
+  --skrift-tekst: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --ramme: 72rem;
+  --prosa: 40rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papir: #0e1a20;
+    --blaek: #e3eaea;
+    --daempet: #9aabaf;
+    --linje: #2d3e45;
+    --toning: #15252c;
+    --link: #9cc0f0;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--papir);
+  color: var(--blaek);
+  font: 1.125rem/1.6 var(--skrift-tekst);
+}
+
+.ramme {
+  width: 100%;
+  max-width: var(--ramme);
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 40rem) {
+  .ramme {
+    padding-inline: 2rem;
+  }
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--skrift-overskrift);
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 0 0 0.5em;
+}
+
+h1 {
+  font-size: 2.25rem;
+  margin-top: 0.25em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2em;
+}
+
+h3 {
+  font-size: 1.125rem;
+  margin-top: 1.5em;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+a {
+  color: var(--link);
+  text-decoration-thickness: 0.07em;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  text-decoration-thickness: 0.14em;
+}
+
+:focus-visible {
+  outline: 3px solid var(--blaek);
+  outline-offset: 2px;
+}
+
+a:focus-visible {
+  background: var(--flag-gul);
+  color: #14232b;
+  text-decoration: none;
+}
+
+.spring {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 10;
+  padding: 0.5rem 1rem;
+  background: var(--flag-gul);
+  color: #14232b;
+}
+
+.spring:focus {
+  top: 1rem;
+}
+
+.sprite {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+/* Sidehoved */
+
+.sidehoved {
+  border-bottom: 3px solid var(--blaek);
+}
+
+.sidehoved-indre {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 2rem;
+  padding-block: 1rem;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: inherit;
+  text-decoration: none;
+  font-family: var(--skrift-overskrift);
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.logo-flag {
+  flex: none;
+  width: auto;
+  height: 1.125rem;
+}
+
+.sidehoved nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sidehoved nav a {
+  display: inline-block;
+  padding-block: 0.25rem;
+  color: inherit;
+  text-decoration: none;
+  font-family: var(--skrift-overskrift);
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.sidehoved nav a:hover,
+.sidehoved nav a[aria-current="page"],
+.sidehoved nav a.aktiv {
+  box-shadow: inset 0 -3px 0 var(--blaek);
+}
+
+main {
+  display: block;
+  padding-block: 1.5rem 4rem;
+}
+
+/* Forside */
+
+.helt {
+  padding-block: 0.5rem 2.5rem;
+}
+
+.vimpel {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: var(--blaek);
+}
+
+.ordmaerke {
+  margin: 0.3em 0 0.15em;
+  font-size: clamp(3rem, 1.5rem + 6vw, 4.5rem);
+  line-height: 0.95;
+}
+
+.tagline {
+  max-width: var(--prosa);
+  margin: 0;
+  color: var(--daempet);
+  font-size: 1.3125rem;
+}
+
+.forside-gitter {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem 3rem;
+}
+
+@media (min-width: 60rem) {
+  .forside-gitter {
+    grid-template-columns: minmax(0, 34rem) minmax(0, 1fr);
+  }
+}
+
+.forside-gitter h2:first-child,
+.prosa > h2:first-child {
+  margin-top: 0;
+}
+
+/* Tekst */
+
+.prosa {
+  max-width: var(--prosa);
+}
+
+.prosa ul,
+.prosa ol {
+  padding-left: 1.25em;
+}
+
+.ingress {
+  max-width: var(--prosa);
+  font-size: 1.3125rem;
+  line-height: 1.45;
+}
+
+/* Brødkrumme */
+
+.broedkrumme ol {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 0 1rem;
+  padding: 0;
+  list-style: none;
+  color: var(--daempet);
+  font-size: 0.875rem;
+}
+
+.broedkrumme li + li::before {
+  content: "/";
+  margin-inline: 0.5em;
+}
+
+/* Tabeller */
+
+.tabel-ramme {
+  overflow-x: auto;
+  margin: 0 0 2rem;
+}
+
+.datatabel,
+.fakta {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  line-height: 1.4;
+  font-variant-numeric: tabular-nums;
+}
+
+.datatabel caption,
+.fakta caption {
+  caption-side: top;
+  padding-bottom: 0.5rem;
+  text-align: left;
+  font-family: var(--skrift-overskrift);
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.datatabel thead th {
+  padding: 0.6rem 0.75rem;
+  background: var(--blaek);
+  color: var(--papir);
+  font-weight: 600;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+.datatabel td,
+.datatabel tbody th {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid var(--linje);
+  text-align: left;
+  vertical-align: top;
+}
+
+.datatabel tbody th {
+  font-weight: 600;
+}
+
+.datatabel tbody tr:nth-child(even) {
+  background: var(--toning);
+}
+
+.datatabel .tal {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.datatabel .dato {
+  white-space: nowrap;
+}
+
+/* Lange overskrifter med enhed må gerne bryde over flere linjer */
+.datatabel thead .tal {
+  white-space: normal;
+}
+
+@media (max-width: 40rem) {
+  .datatabel thead th,
+  .datatabel td,
+  .datatabel tbody th {
+    padding-inline: 0.5rem;
+  }
+
+  .datatabel {
+    font-size: 0.9375rem;
+  }
+
+  /* Kolonner, der kun er en genvej, skjules på smalle skærme. De står stadig i HTML'en. */
+  .datatabel .kun-bred {
+    display: none;
+  }
+}
+
+.fakta {
+  border-top: 3px solid var(--blaek);
+}
+
+.fakta th,
+.fakta td {
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--linje);
+  text-align: left;
+  vertical-align: top;
+}
+
+.fakta th {
+  padding-right: 1rem;
+  color: var(--daempet);
+  font-weight: 400;
+}
+
+.fakta td {
+  font-weight: 600;
+}
+
+/* Emneside */
+
+.emne-gitter {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.5rem 3rem;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 56rem) {
+  .emne-gitter {
+    grid-template-columns: minmax(0, 22rem) minmax(0, 1fr);
+  }
+}
+
+.blad {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem 2rem;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--linje);
+  font-size: 1rem;
+}
+
+.blad p {
+  margin: 0;
+}
+
+.blad span {
+  color: var(--daempet);
+}
+
+.blad .naeste {
+  margin-left: auto;
+  text-align: right;
+}
+
+/* Oversigt over alle sider */
+
+.oversigt,
+.oversigt ul {
+  padding: 0;
+  list-style: none;
+}
+
+.oversigt > li {
+  margin-bottom: 1.25rem;
+}
+
+.oversigt > li > a {
+  font-family: var(--skrift-overskrift);
+  font-size: 1.3125rem;
+  font-weight: 700;
+}
+
+.oversigt ul {
+  margin-top: 0.35rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--linje);
+}
+
+/* Sidefod */
+
+.sidefod {
+  border-top: 3px solid var(--blaek);
+  font-size: 1rem;
+}
+
+.sidefod-indre {
+  display: grid;
+  gap: 1rem 3rem;
+  padding-block: 2rem 3rem;
+}
+
+@media (min-width: 48rem) {
+  .sidefod-indre {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+}
+
+.sidefod-navn {
+  margin-bottom: 0.25rem;
+  font-family: var(--skrift-overskrift);
+  font-size: 1.3125rem;
+  font-weight: 700;
+}
+
+.sidefod ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  columns: 2;
+  column-gap: 2.5rem;
+}
+
+.sidefod li {
+  margin-bottom: 0.35rem;
+}
+
+.fiktion {
+  max-width: 34rem;
+  color: var(--daempet);
+  font-size: 0.875rem;
+}
+
+/* Vimplen: flagene svinger én gang, når forsiden indlæses */
+
+.vimpel .sving {
+  transform-box: fill-box;
+  transform-origin: 50% 0;
+  animation: sving 1.6s cubic-bezier(0.25, 0.8, 0.3, 1) both;
+}
+
+.vimpel .f2 .sving { animation-delay: 0.08s; }
+.vimpel .f3 .sving { animation-delay: 0.16s; }
+.vimpel .f4 .sving { animation-delay: 0.24s; }
+.vimpel .f5 .sving { animation-delay: 0.32s; }
+
+@keyframes sving {
+  from { transform: rotate(9deg); }
+  40% { transform: rotate(-4deg); }
+  70% { transform: rotate(1.5deg); }
+  to { transform: rotate(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .vimpel .sving {
+    animation: none;
+  }
+}
+
+@media print {
+  .spring,
+  .sidehoved nav,
+  .sidefod nav {
+    display: none;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

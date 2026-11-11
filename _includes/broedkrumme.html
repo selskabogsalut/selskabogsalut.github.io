@@ -1,0 +1,9 @@
+<nav class="broedkrumme" aria-label="Brødkrumme">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Forside</a></li>
+    {%- if include.url1 %}
+    <li><a href="{{ include.url1 | relative_url }}">{{ include.titel1 }}</a></li>
+    {%- endif %}
+    <li aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>

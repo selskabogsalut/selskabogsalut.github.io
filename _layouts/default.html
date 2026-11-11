@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'da' }}">
+<head>
+{% include head.html %}
+</head>
+<body>
+<a class="spring" href="#indhold">Gå til indhold</a>
+{% include flag-sprite.html %}
+{% include sidehoved.html %}
+<main id="indhold" class="ramme">
+{{ content }}
+</main>
+{% include sidefod.html %}
+</body>
+</html>

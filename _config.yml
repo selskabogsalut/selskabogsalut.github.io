@@ -1,0 +1,109 @@
+# Selskab & Salut – indstillinger for sitet
+# Efter ændringer i denne fil skal GitHub Pages bygge sitet igen (sker automatisk ved push).
+
+title: Selskab & Salut
+tagline: Eventbureau på Kobberø
+description: >-
+  Selskab & Salut er et eventbureau på Kobberø. Her finder du spisesteder,
+  menuer, leverandører og færgetider til selskaber og middage på øen.
+url: "https://selskabogsalut.github.io"
+baseurl: ""
+lang: da
+locale: da_DK
+
+# Vises i sidefoden. Adressen er opdigtet.
+adresse: "Havnevej 4, Kobberø"
+
+# Note i sidefoden på alle sider. Sæt til "" for at skjule den.
+# Anbefales, så længe sitet er offentligt og kan findes via søgemaskiner.
+fiktion: "Selskab & Salut og Kobberø er opdigtede. Alle navne, priser og tider på sitet er fiktive."
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Hver samling bliver til en mappe med én side pr. fil, fx /spisesteder/pakhuset/
+collections:
+  spisesteder:
+    output: true
+    permalink: /spisesteder/:name/
+  menuer:
+    output: true
+    permalink: /menuer/:name/
+  leverandoerer:
+    output: true
+    permalink: /leverandoerer/:name/
+  transport:
+    output: true
+    permalink: /transport/:name/
+  arkiv:
+    output: true
+    permalink: /arkiv/:name/
+
+defaults:
+  # Datoen for seneste ændring vises i sitemap.xml (lastmod), som søgemaskiner bruger til at
+  # vælge, hvad de skal hente igen. Ret datoen her, når mange sider ændres, eller sæt
+  # last_modified_at i den enkelte sides front matter, når kun den side ændres.
+  - scope:
+      path: ""
+    values:
+      layout: side
+      last_modified_at: 2026-11-10
+  - scope:
+      path: ""
+      type: spisesteder
+    values:
+      layout: emne
+      date: "2026-11-10"
+      last_modified_at: 2026-11-10
+      seo:
+        type: WebPage
+  - scope:
+      path: ""
+      type: menuer
+    values:
+      layout: emne
+      date: "2026-11-10"
+      last_modified_at: 2026-11-10
+      seo:
+        type: WebPage
+  - scope:
+      path: ""
+      type: leverandoerer
+    values:
+      layout: emne
+      date: "2026-11-10"
+      last_modified_at: 2026-11-10
+      seo:
+        type: WebPage
+  - scope:
+      path: ""
+      type: transport
+    values:
+      layout: emne
+      date: "2026-11-10"
+      last_modified_at: 2026-11-10
+      seo:
+        type: WebPage
+  - scope:
+      path: ""
+      type: arkiv
+    values:
+      layout: emne
+      date: "2026-11-10"
+      last_modified_at: 2026-11-10
+      seo:
+        type: WebPage
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - tools
+  - vendor
+  - .bundle
+  - .jekyll-cache

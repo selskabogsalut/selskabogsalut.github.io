@@ -1,0 +1,25 @@
+{%- comment -%}
+  En tabel med en række pr. element i en liste.
+  Parametre: id, raekker (listen), kolonner (definitioner fra _data/felter.yml), etiket (tekst til skærmlæsere).
+{%- endcomment -%}
+<div class="tabel-ramme" role="region" aria-label="{{ include.etiket }}" tabindex="0">
+  <table class="datatabel" id="{{ include.id }}">
+    <thead>
+      <tr>
+        {%- for k in include.kolonner %}
+        <th scope="col"{% if k.tal %} class="tal"{% endif %}>{{ k.navn }}</th>
+        {%- endfor %}
+      </tr>
+    </thead>
+    <tbody>
+    {%- for r in include.raekker %}
+      <tr>
+        {%- for k in include.kolonner %}
+        {%- assign cellevaerdi = r[k.felt] %}
+        <td{% if k.tal %} class="tal"{% endif %}>{% include celle.html vaerdi=cellevaerdi def=k %}</td>
+        {%- endfor %}
+      </tr>
+    {%- endfor %}
+    </tbody>
+  </table>
+</div>

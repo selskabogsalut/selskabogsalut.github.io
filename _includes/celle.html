@@ -1,0 +1,13 @@
+{%- comment -%}
+  Én celleværdi. Parametre: vaerdi (værdien), def (feltdefinitionen fra _data/felter.yml).
+  Links: hvis def.link er sat, er værdien filnavnet på en side i den samling.
+{%- endcomment -%}
+{%- assign v = include.vaerdi -%}
+{%- if include.def.link and v -%}
+  {%- assign mal_url = "/" | append: include.def.link | append: "/" | append: v | append: "/" -%}
+  {%- assign mal = site[include.def.link] | where: "url", mal_url | first -%}
+  {%- if mal -%}<a href="{{ mal.url | relative_url }}">{{ mal.title }}</a>{%- else -%}{{ v }}{%- endif -%}
+{%- elsif v == true -%}Ja
+{%- elsif v == false -%}Nej
+{%- else -%}{{ v }}
+{%- endif -%}

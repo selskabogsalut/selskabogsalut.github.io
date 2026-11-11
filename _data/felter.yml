@@ -1,0 +1,92 @@
+# Hvilke felter der vises for hver samling, og hvordan.
+#
+# fakta:     felter fra siden, vist som en tabel med to kolonner (Egenskab | Værdi)
+#   felt:    navnet i sidens front matter
+#   navn:    kolonne- eller rækkeoverskrift (enheden står her, så cellerne kun indeholder tal)
+#   tal:     true = højrestillet tal
+#   liste:   true = vises også som kolonne på afsnittets oversigtsside
+#   link:    værdien er filnavnet (uden .md) på en side i den nævnte samling, og der laves et link
+#
+# tabeller:  lister i sidens front matter, vist som almindelige tabeller under fakta
+#   felt:     navnet på listen i front matter
+#   titel:    overskrift over tabellen
+#   kolonner: samme opbygning som fakta
+#
+# Værdierne true/false vises som Ja/Nej. Tomme felter vises som tomme celler.
+
+spisesteder:
+  fakta:
+    - { felt: type, navn: Type, liste: true }
+    - { felt: kapacitet, navn: "Kapacitet (siddende gæster)", tal: true, liste: true }
+    - { felt: leje_pr_aften, navn: "Leje pr. aften (kr.)", tal: true, liste: true }
+    - { felt: afstand_til_faergehavn_m, navn: "Afstand til færgehavn (m)", tal: true, liste: true }
+    - { felt: eget_koekken, navn: "Eget køkken", liste: true }
+    - { felt: trinfri_adgang, navn: "Trinfri adgang" }
+    - { felt: vaerelser, navn: "Overnatning (værelser)", tal: true }
+  tabeller:
+    - felt: lokaler
+      titel: Lokaler
+      kolonner:
+        - { felt: lokale, navn: Lokale }
+        - { felt: siddende, navn: "Siddende pladser", tal: true }
+        - { felt: staaende, navn: "Stående pladser", tal: true }
+        - { felt: tillaeg, navn: "Tillæg (kr.)", tal: true }
+
+menuer:
+  fakta:
+    - { felt: koekken, navn: Køkken, liste: true }
+    - { felt: min_kuverter, navn: "Mindst (kuverter)", tal: true, liste: true }
+    - { felt: max_kuverter, navn: "Højst (kuverter)", tal: true, liste: true }
+    - { felt: bestilles_senest_dage, navn: "Bestilles senest (dage før)", tal: true, liste: true }
+  tabeller:
+    - felt: retter
+      titel: Retter
+      kolonner:
+        - { felt: ret, navn: Ret }
+        - { felt: kategori, navn: Kategori }
+        - { felt: pris_pr_person, navn: "Pris pr. person (kr.)", tal: true }
+        - { felt: allergener, navn: Allergener }
+        - { felt: vegetarisk, navn: Vegetarisk }
+
+leverandoerer:
+  fakta:
+    - { felt: kategori, navn: Kategori, liste: true }
+    - { felt: leveringsgebyr, navn: "Leveringsgebyr (kr.)", tal: true, liste: true }
+    - { felt: bestilles_senest_dage, navn: "Bestilles senest (dage før)", tal: true, liste: true }
+    - { felt: mindste_ordre, navn: "Mindste ordre (kr.)", tal: true }
+  tabeller:
+    - felt: prisliste
+      titel: Prisliste
+      kolonner:
+        - { felt: vare, navn: Vare }
+        - { felt: enhed, navn: Enhed }
+        - { felt: pris, navn: "Pris (kr.)", tal: true }
+
+transport:
+  fakta:
+    - { felt: operatoer, navn: Operatør, liste: true }
+    - { felt: fra, navn: Fra, liste: true }
+    - { felt: til, navn: Til, liste: true }
+    - { felt: varighed_min, navn: "Varighed (min.)", tal: true, liste: true }
+    - { felt: max_passagerer, navn: "Højst (passagerer)", tal: true }
+  tabeller:
+    - felt: afgange
+      titel: Afgange
+      kolonner:
+        - { felt: afgang, navn: Afgang, tal: true }
+        - { felt: ankomst, navn: Ankomst, tal: true }
+        - { felt: dage, navn: Dage }
+    - felt: billetpriser
+      titel: Billetpriser
+      kolonner:
+        - { felt: billettype, navn: Billettype }
+        - { felt: pris, navn: "Pris (kr.)", tal: true }
+
+arkiv:
+  fakta:
+    - { felt: dato, navn: Dato, liste: true }
+    - { felt: anledning, navn: Anledning, liste: true }
+    - { felt: gaester, navn: Gæster, tal: true, liste: true }
+    - { felt: spisested, navn: Spisested, link: spisesteder, liste: true }
+    - { felt: menu, navn: Menu, link: menuer }
+    - { felt: samlet_pris, navn: "Samlet pris (kr.)", tal: true }

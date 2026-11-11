@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{%- comment -%}
+  Oversigtsside for ét afsnit. Siden skal have "samling" i sin front matter.
+  Tabellen viser alle sider i samlingen med de felter, der har "liste: true" i _data/felter.yml.
+{%- endcomment -%}
+{%- assign sek = site.data.sektioner | where: "samling", page.samling | first %}
+{%- assign felter = site.data.felter[page.samling] %}
+{%- assign docs = site[page.samling] | sort: sek.sortering %}
+{%- if sek.omvendt %}{% assign docs = docs | reverse %}{% endif %}
+
+{% include broedkrumme.html %}
+<article class="sektion">
+  <h1>{{ page.title }}</h1>
+  <div class="prosa">
+{{ content }}
+  </div>
+
+  <div class="tabel-ramme" role="region" aria-label="{{ page.title }}" tabindex="0">
+    <table class="datatabel" id="{{ page.samling }}">
+      <caption>{{ page.title }} ({{ docs | size }})</caption>
+      <thead>
+        <tr>
+          <th scope="col">Navn</th>
+          {%- for k in felter.fakta %}{% if k.liste %}
+          <th scope="col"{% if k.tal %} class="tal"{% endif %}>{{ k.navn }}</th>
+          {%- endif %}{% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+      {%- for d in docs %}
+        <tr>
+          <th scope="row"><a href="{{ d.url | relative_url }}">{{ d.title }}</a></th>
+          {%- for k in felter.fakta %}{% if k.liste %}
+          {%- assign cellevaerdi = d[k.felt] %}
+          <td{% if k.tal %} class="tal"{% endif %}>{% include celle.html vaerdi=cellevaerdi def=k %}</td>
+          {%- endif %}{% endfor %}
+        </tr>
+      {%- endfor %}
+      </tbody>
+    </table>
+  </div>
+</article>

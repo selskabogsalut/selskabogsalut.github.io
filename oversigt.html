@@ -1,0 +1,22 @@
+---
+title: Oversigt over alle sider
+permalink: /oversigt/
+description: Alle sider hos Selskab & Salut samlet på én side.
+---
+<p>Alle sider på sitet, samlet ét sted. Den samme liste findes som <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a>.</p>
+
+<ul class="oversigt">
+  <li><a href="{{ '/' | relative_url }}">Forside</a></li>
+  {%- for s in site.data.sektioner %}
+  {%- assign docs = site[s.samling] | sort: s.sortering %}
+  {%- if s.omvendt %}{% assign docs = docs | reverse %}{% endif %}
+  <li>
+    <a href="{{ s.url | relative_url }}">{{ s.titel }}</a>
+    <ul>
+      {%- for d in docs %}
+      <li><a href="{{ d.url | relative_url }}">{{ d.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </li>
+  {%- endfor %}
+</ul>

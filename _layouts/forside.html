@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<section class="helt" aria-labelledby="forside-titel">
+  {% include vimpel.html %}
+  <h1 id="forside-titel" class="ordmaerke">{{ site.title | escape }}</h1>
+  <p class="tagline">{{ site.tagline }}</p>
+</section>
+
+<div class="forside-gitter">
+  <div class="prosa">
+{{ content }}
+  </div>
+
+  <section aria-labelledby="katalog-titel">
+    <h2 id="katalog-titel">Kataloget</h2>
+    <div class="tabel-ramme" role="region" aria-labelledby="katalog-titel" tabindex="0">
+      <table class="datatabel" id="katalog">
+        <thead>
+          <tr>
+            <th scope="col">Afsnit</th>
+            <th scope="col">Indhold</th>
+            <th scope="col" class="tal">Sider</th>
+          </tr>
+        </thead>
+        <tbody>
+        {%- for s in site.data.sektioner %}
+          <tr>
+            <th scope="row"><a href="{{ s.url | relative_url }}">{{ s.titel }}</a></th>
+            <td>{{ s.beskrivelse }}</td>
+            <td class="tal">{{ site[s.samling] | size }}</td>
+          </tr>
+        {%- endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+</div>
+
+{%- assign arkiv_sek = site.data.sektioner | where: "samling", "arkiv" | first %}
+{%- if arkiv_sek %}
+{%- assign seneste = site.arkiv | sort: "dato" | reverse %}
+{%- assign spisested_def = site.data.felter.arkiv.fakta | where: "felt", "spisested" | first %}
+<section aria-labelledby="seneste-titel">
+  <h2 id="seneste-titel">Seneste arrangementer</h2>
+  <div class="tabel-ramme" role="region" aria-labelledby="seneste-titel" tabindex="0">
+    <table class="datatabel" id="seneste-arrangementer">
+      <thead>
+        <tr>
+          <th scope="col">Dato</th>
+          <th scope="col">Arrangement</th>
+          <th scope="col" class="tal">Gæster</th>
+          <th scope="col" class="kun-bred">Spisested</th>
+        </tr>
+      </thead>
+      <tbody>
+      {%- for a in seneste limit: 3 %}
+        <tr>
+          <td class="dato">{{ a.dato }}</td>
+          <th scope="row"><a href="{{ a.url | relative_url }}">{{ a.title }}</a></th>
+          <td class="tal">{{ a.gaester }}</td>
+          <td class="kun-bred">{% include celle.html vaerdi=a.spisested def=spisested_def %}</td>
+        </tr>
+      {%- endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p><a href="{{ arkiv_sek.url | relative_url }}">Se hele arkivet</a></p>
+</section>
+{%- endif %}

@@ -1,0 +1,67 @@
+---
+layout: default
+---
+{%- comment -%}
+  Side for ét spisested, én menu, én leverandør osv.
+  Fakta og tabeller styres af _data/felter.yml; teksten under front matter vises ved siden af fakta.
+{%- endcomment -%}
+{%- assign sek = site.data.sektioner | where: "samling", page.collection | first %}
+{%- assign felter = site.data.felter[page.collection] %}
+
+{% include broedkrumme.html titel1=sek.titel url1=sek.url %}
+<article class="emne">
+  <h1>{{ page.title }}</h1>
+  {%- if page.description %}
+  <p class="ingress">{{ page.description }}</p>
+  {%- endif %}
+
+  <div class="emne-gitter">
+    <table class="fakta" id="fakta">
+      <caption>Fakta</caption>
+      <tbody>
+      {%- for k in felter.fakta %}
+        {%- assign v = page[k.felt] %}
+        {%- if v != nil and v != "" %}
+        <tr>
+          <th scope="row">{{ k.navn }}</th>
+          <td{% if k.tal %} class="tal"{% endif %}>{% include celle.html vaerdi=v def=k %}</td>
+        </tr>
+        {%- endif %}
+      {%- endfor %}
+      </tbody>
+    </table>
+
+    <div class="prosa">
+{{ content }}
+    </div>
+  </div>
+
+  {%- for t in felter.tabeller %}
+    {%- assign raekker = page[t.felt] %}
+    {%- if raekker and raekker.size > 0 %}
+  <section aria-labelledby="{{ t.felt }}-titel">
+    <h2 id="{{ t.felt }}-titel">{{ t.titel }}</h2>
+    {% include datatabel.html id=t.felt raekker=raekker kolonner=t.kolonner etiket=t.titel %}
+  </section>
+    {%- endif %}
+  {%- endfor %}
+
+  {%- comment %} Forrige / næste i samme afsnit, i samme rækkefølge som oversigtssiden {% endcomment %}
+  {%- assign docs = site[page.collection] | sort: sek.sortering %}
+  {%- if sek.omvendt %}{% assign docs = docs | reverse %}{% endif %}
+  {%- assign nr = 0 %}
+  {%- for d in docs %}{% if d.url == page.url %}{% assign nr = forloop.index0 %}{% endif %}{% endfor %}
+  {%- assign forrige = false %}
+  {%- if nr > 0 %}{% assign i = nr | minus: 1 %}{% assign forrige = docs[i] %}{% endif %}
+  {%- assign i = nr | plus: 1 %}{% assign naeste = docs[i] %}
+  {%- if forrige or naeste %}
+  <nav class="blad" aria-label="Flere i {{ sek.titel | downcase }}">
+    {%- if forrige %}
+    <p class="forrige"><span>Forrige {{ sek.ental }}:</span> <a href="{{ forrige.url | relative_url }}" rel="prev">{{ forrige.title }}</a></p>
+    {%- endif %}
+    {%- if naeste %}
+    <p class="naeste"><span>Næste {{ sek.ental }}:</span> <a href="{{ naeste.url | relative_url }}" rel="next">{{ naeste.title }}</a></p>
+    {%- endif %}
+  </nav>
+  {%- endif %}
+</article>

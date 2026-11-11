@@ -1,0 +1,21 @@
+<header class="sidehoved">
+  <div class="ramme sidehoved-indre">
+    <a class="logo" href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>
+      <svg class="logo-flag" viewBox="0 0 590 76" aria-hidden="true" focusable="false">
+        <use href="#flag-s" x="0" y="0" width="110" height="76"/>
+        <use href="#flag-a" x="120" y="0" width="110" height="76"/>
+        <use href="#flag-l" x="240" y="0" width="110" height="76"/>
+        <use href="#flag-u" x="360" y="0" width="110" height="76"/>
+        <use href="#flag-t" x="480" y="0" width="110" height="76"/>
+      </svg>
+      <span>{{ site.title | escape }}</span>
+    </a>
+    <nav aria-label="Hovedmenu">
+      <ul>
+      {%- for s in site.data.sektioner %}
+        <li><a href="{{ s.url | relative_url }}"{% if page.url == s.url %} aria-current="page"{% elsif page.url contains s.url %} class="aktiv"{% endif %}>{{ s.titel }}</a></li>
+      {%- endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
