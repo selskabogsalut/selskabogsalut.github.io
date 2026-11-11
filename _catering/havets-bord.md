@@ -2,6 +2,7 @@
 title: Havets bord
 description: Fisk og skaldyr fra farvandet omkring Kobberø, lavet i kroens køkken.
 koekken: Kroen ved Havnen
+leverer_til: Kobberø
 min_kuverter: 10
 max_kuverter: 60
 bestilles_senest_dage: 7
@@ -14,4 +15,4 @@ retter:
   - { ret: Ostebord, kategori: Dessert, pris_pr_person: 120, allergener: "Mælk, Gluten", vegetarisk: true }
 ---
 
-Menuen serveres på [Kroen ved Havnen](/spisesteder/kroen-ved-havnen/). Fisken købes samme morgen, så retterne kan skifte efter fangsten.
+Menuen serveres på [Kroen ved Havnen](/spisesteder/kroen-ved-havnen/) på Kobberø. Fisken købes samme morgen, så retterne kan skifte efter fangsten.

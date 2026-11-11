@@ -2,10 +2,11 @@
 # Efter ændringer i denne fil skal GitHub Pages bygge sitet igen (sker automatisk ved push).
 
 title: Selskab & Salut
-tagline: Eventbureau på Kobberø
+tagline: Eventbureau specialiseret i Smålandsfarvandet
 description: >-
-  Selskab & Salut er et eventbureau på Kobberø. Her finder du spisesteder,
-  menuer, leverandører og færgetider til selskaber og middage på øen.
+  Selskab & Salut er et eventbureau specialiseret i Smålandsfarvandet. Vi holder
+  selskaber på øerne i farvandet, også på private øer. Her finder du spisesteder,
+  catering, leverandører og sejltider.
 url: "https://selskabogsalut.github.io"
 baseurl: ""
 lang: da
@@ -16,7 +17,7 @@ adresse: "Havnevej 4, Kobberø"
 
 # Note i sidefoden på alle sider. Sæt til "" for at skjule den.
 # Anbefales, så længe sitet er offentligt og kan findes via søgemaskiner.
-fiktion: "Selskab & Salut og Kobberø er opdigtede. Alle navne, priser og tider på sitet er fiktive."
+fiktion: "Selskab & Salut og øerne Kobberø, Lyngø, Ravneholm og Sælholm er opdigtede. Alle navne, priser og tider på sitet er fiktive."
 
 markdown: kramdown
 kramdown:
@@ -31,9 +32,9 @@ collections:
   spisesteder:
     output: true
     permalink: /spisesteder/:name/
-  menuer:
+  catering:
     output: true
-    permalink: /menuer/:name/
+    permalink: /catering/:name/
   leverandoerer:
     output: true
     permalink: /leverandoerer/:name/
@@ -43,6 +44,10 @@ collections:
   arkiv:
     output: true
     permalink: /arkiv/:name/
+  # Fildeling (intern)
+  fildeling:
+    output: true
+    permalink: /fildeling/:name/
 
 defaults:
   # Datoen for seneste ændring vises i sitemap.xml (lastmod), som søgemaskiner bruger til at
@@ -52,23 +57,23 @@ defaults:
       path: ""
     values:
       layout: side
-      last_modified_at: 2026-11-10
+      last_modified_at: 2026-11-11
   - scope:
       path: ""
       type: spisesteder
     values:
       layout: emne
       date: "2026-11-10"
-      last_modified_at: 2026-11-10
+      last_modified_at: 2026-11-11
       seo:
         type: WebPage
   - scope:
       path: ""
-      type: menuer
+      type: catering
     values:
       layout: emne
       date: "2026-11-10"
-      last_modified_at: 2026-11-10
+      last_modified_at: 2026-11-11
       seo:
         type: WebPage
   - scope:
@@ -77,7 +82,7 @@ defaults:
     values:
       layout: emne
       date: "2026-11-10"
-      last_modified_at: 2026-11-10
+      last_modified_at: 2026-11-11
       seo:
         type: WebPage
   - scope:
@@ -86,7 +91,7 @@ defaults:
     values:
       layout: emne
       date: "2026-11-10"
-      last_modified_at: 2026-11-10
+      last_modified_at: 2026-11-11
       seo:
         type: WebPage
   - scope:
@@ -95,7 +100,17 @@ defaults:
     values:
       layout: emne
       date: "2026-11-10"
-      last_modified_at: 2026-11-10
+      last_modified_at: 2026-11-11
+      seo:
+        type: WebPage
+  # Fildeling (intern)
+  - scope:
+      path: ""
+      type: fildeling
+    values:
+      layout: emne
+      date: "2026-11-11"
+      last_modified_at: 2026-11-11
       seo:
         type: WebPage
 

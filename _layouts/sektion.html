@@ -34,7 +34,7 @@ layout: default
           <th scope="row"><a href="{{ d.url | relative_url }}">{{ d.title }}</a></th>
           {%- for k in felter.fakta %}{% if k.liste %}
           {%- assign cellevaerdi = d[k.felt] %}
-          <td{% if k.tal %} class="tal"{% endif %}>{% include celle.html vaerdi=cellevaerdi def=k %}</td>
+          <td{% if k.tal %} class="tal"{% elsif k.dato %} class="dato"{% endif %}>{% include celle.html vaerdi=cellevaerdi def=k %}</td>
           {%- endif %}{% endfor %}
         </tr>
       {%- endfor %}

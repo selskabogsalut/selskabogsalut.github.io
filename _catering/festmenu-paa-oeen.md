@@ -1,7 +1,8 @@
 ---
 title: Festmenu på øen
-description: Øens Køkken leverer til store selskaber overalt på Kobberø.
+description: Øens Køkken på Kobberø leverer til store selskaber på Kobberø og Lyngø.
 koekken: Øens Køkken
+leverer_til: "Kobberø, Lyngø"
 min_kuverter: 20
 max_kuverter: 120
 bestilles_senest_dage: 14
@@ -14,4 +15,6 @@ retter:
   - { ret: Kransekage, kategori: Dessert, pris_pr_person: 65, allergener: "Mandler, Æg", vegetarisk: true }
 ---
 
-Øens Køkken har intet spisested selv, men leverer til alle steder på øen. Maden passer især til [Pakhuset](/spisesteder/pakhuset/), som ikke har eget køkken.
+Øens Køkken har intet spisested selv. Køkkenet leverer til alle steder på Kobberø og tager maden med færgen til Lyngø.
+
+Maden passer især til [Pakhuset](/spisesteder/pakhuset/), som ikke har eget køkken.

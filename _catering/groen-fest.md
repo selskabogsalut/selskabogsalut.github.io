@@ -1,7 +1,8 @@
 ---
 title: Grøn fest
-description: En vegetarisk menu fra køkkenet i Fyrmesterboligen.
+description: En vegetarisk menu fra køkkenet i Fyrmesterboligen på Kobberø.
 koekken: Fyrmesterboligen
+leverer_til: Kobberø
 min_kuverter: 8
 max_kuverter: 24
 bestilles_senest_dage: 10
@@ -12,4 +13,4 @@ retter:
   - { ret: Æblekage, kategori: Dessert, pris_pr_person: 85, allergener: "Gluten, Mælk", vegetarisk: true }
 ---
 
-Alle retter er vegetariske. Menuen serveres i [Fyrmesterboligen](/spisesteder/fyrmesterboligen/).
+Alle retter er vegetariske. Menuen serveres kun i [Fyrmesterboligen](/spisesteder/fyrmesterboligen/).

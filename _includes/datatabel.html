@@ -16,7 +16,7 @@
       <tr>
         {%- for k in include.kolonner %}
         {%- assign cellevaerdi = r[k.felt] %}
-        <td{% if k.tal %} class="tal"{% endif %}>{% include celle.html vaerdi=cellevaerdi def=k %}</td>
+        <td{% if k.tal %} class="tal"{% elsif k.dato %} class="dato"{% endif %}>{% include celle.html vaerdi=cellevaerdi def=k %}</td>
         {%- endfor %}
       </tr>
     {%- endfor %}

@@ -10,10 +10,13 @@
   --linje: #c5d0d1;
   --toning: #e6edec;
   --link: #1e4fa1;
+  --ark: #ffffff;
   --flag-gul: #f3c21b;
   --skrift-overskrift: "Bahnschrift Condensed", "Bahnschrift", "DIN Condensed", "DIN Alternate",
     "Roboto Condensed", "TeX Gyre Heros Cn", "Arial Narrow", sans-serif;
   --skrift-tekst: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --skrift-dokument: "Iowan Old Style", "Palatino Linotype", Palatino, "URW Palladio L", P052,
+    Georgia, serif;
   --ramme: 72rem;
   --prosa: 40rem;
 }
@@ -26,6 +29,7 @@
     --linje: #2d3e45;
     --toning: #15252c;
     --link: #9cc0f0;
+    --ark: #132229;
   }
 }
 
@@ -379,6 +383,7 @@ main {
 .emne-gitter {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
+  align-items: start;
   gap: 1.5rem 3rem;
   margin-bottom: 1rem;
 }
@@ -386,6 +391,37 @@ main {
 @media (min-width: 56rem) {
   .emne-gitter {
     grid-template-columns: minmax(0, 22rem) minmax(0, 1fr);
+  }
+}
+
+/* Dokumenter i fildelingen: brødteksten står på et ark med serif-skrift,
+   så kildematerialet skiller sig ud fra bureauets egne sider. */
+
+.dokument {
+  padding: 1.5rem 1.75rem 0.5rem;
+  background: var(--ark);
+  border: 1px solid var(--linje);
+  border-top: 3px solid var(--blaek);
+  font-family: var(--skrift-dokument);
+  font-size: 1.1875rem;
+  line-height: 1.7;
+}
+
+.dokument h2,
+.dokument h3 {
+  font-family: inherit;
+}
+
+.dokument blockquote {
+  margin: 0 0 1em;
+  padding-left: 1rem;
+  border-left: 3px solid var(--linje);
+  font-style: italic;
+}
+
+@media (max-width: 40rem) {
+  .dokument {
+    padding: 1rem 1rem 0.25rem;
   }
 }
 

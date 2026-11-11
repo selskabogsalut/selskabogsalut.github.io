@@ -3,7 +3,9 @@ layout: default
 ---
 {%- comment -%}
   Side for ét spisested, én menu, én leverandør osv.
-  Fakta og tabeller styres af _data/felter.yml; teksten under front matter vises ved siden af fakta.
+  Fakta og tabeller styres af _data/felter.yml. Teksten under front matter er brødteksten:
+  den vises ved siden af fakta i et element med id="broedtekst", og som et dokument,
+  hvis afsnittet har "visning: dokument" i _data/sektioner.yml.
 {%- endcomment -%}
 {%- assign sek = site.data.sektioner | where: "samling", page.collection | first %}
 {%- assign felter = site.data.felter[page.collection] %}
@@ -31,7 +33,7 @@ layout: default
       </tbody>
     </table>
 
-    <div class="prosa">
+    <div class="prosa{% if sek.visning == 'dokument' %} dokument{% endif %}" id="broedtekst">
 {{ content }}
     </div>
   </div>

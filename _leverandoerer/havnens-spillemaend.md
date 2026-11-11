@@ -1,7 +1,8 @@
 ---
 title: Havnens Spillemænd
-description: Øens eget orkester spiller til middag, sang og dans.
+description: Kobberøs eget orkester spiller til middag, sang og dans på alle øer i farvandet.
 kategori: Musik
+leverer_til: Alle øer
 leveringsgebyr: 600
 bestilles_senest_dage: 14
 mindste_ordre: 3200
@@ -11,4 +12,4 @@ prisliste:
   - { vare: Dansemusik fra kl. 21 til kl. 01, enhed: aften, pris: 12000 }
 ---
 
-Leveringsgebyret dækker transport af instrumenter. Orkestret skal kunne komme ind med en kontrabas, så spillestedet skal have en dør på mindst 90 cm.
+Orkestret sejler selv ud med instrumenterne i sin egen båd, og leveringsgebyret dækker sejlturen. Spillestedet skal have en dør på mindst 90 cm, så kontrabassen kan komme ind.

@@ -1,7 +1,8 @@
 ---
 title: Strandens Blomster
-description: Buketter og pynt med blomster fra øens egne marker.
+description: Buketter og pynt med blomster fra Kobberøs egne marker.
 kategori: Blomster
+leverer_til: Kobberø
 leveringsgebyr: 150
 bestilles_senest_dage: 1
 mindste_ordre: 500

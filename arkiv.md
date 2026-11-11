@@ -5,4 +5,4 @@ samling: arkiv
 permalink: /arkiv/
 ---
 
-Arrangementer, vi har planlagt tidligere, med antal gæster, spisested, menu og samlet pris.
+Arrangementer, vi har planlagt på øerne i Smålandsfarvandet, med antal gæster, spisested, catering og samlet pris.

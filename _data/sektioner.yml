@@ -5,6 +5,7 @@
 #   url:        adressen på afsnittets oversigtsside (skal matche permalink i afsnittets .md-fil)
 #   sortering:  feltet, siderne sorteres efter (title = sidens navn)
 #   omvendt:    true = nyeste/største først
+#   visning:    dokument = brødteksten vises som et dokument med serif-skrift (bruges af fildelingen)
 #   beskrivelse: kort tekst til kataloget på forsiden
 
 - samling: spisesteder
@@ -12,28 +13,28 @@
   ental: spisested
   url: /spisesteder/
   sortering: title
-  beskrivelse: Steder at holde selskab, med kapacitet og leje
+  beskrivelse: Steder at holde selskab på øerne, med kapacitet og leje
 
-- samling: menuer
-  titel: Menuer
+- samling: catering
+  titel: Catering
   ental: menu
-  url: /menuer/
+  url: /catering/
   sortering: title
-  beskrivelse: Retter med priser pr. person og allergener
+  beskrivelse: Menuer med priser pr. person, allergener og de øer, køkkenet leverer til
 
 - samling: leverandoerer
   titel: Leverandører
   ental: leverandør
   url: /leverandoerer/
   sortering: title
-  beskrivelse: Vin, blomster, musik og udlejning med prislister
+  beskrivelse: Vin, blomster, musik, strøm og udlejning med prislister
 
 - samling: transport
   titel: Transport
   ental: rute
   url: /transport/
   sortering: title
-  beskrivelse: Færgetider, billetpriser og taxabåd
+  beskrivelse: Færger, charterbåd og taxabåd med tider og priser
 
 - samling: arkiv
   titel: Arkiv
@@ -42,3 +43,13 @@
   sortering: dato
   omvendt: true
   beskrivelse: Tidligere arrangementer med gæster, sted og pris
+
+# Fildeling (intern)
+- samling: fildeling
+  titel: Fildeling (intern)
+  ental: fil
+  url: /fildeling/
+  sortering: dato
+  omvendt: true
+  visning: dokument
+  beskrivelse: Avisudklip, mails og andre kilder med dato og afsender

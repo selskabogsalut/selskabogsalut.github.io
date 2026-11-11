@@ -2,6 +2,7 @@
 title: Øens Udlejning
 description: Telte, borde, stole og lys til leje.
 kategori: Udlejning
+leverer_til: "Kobberø, Lyngø, Sælholm"
 leveringsgebyr: 400
 bestilles_senest_dage: 3
 mindste_ordre: 0
@@ -13,4 +14,4 @@ prisliste:
   - { vare: "Lyskæde, 10 m", enhed: stk., pris: 150 }
 ---
 
-Udstyret leveres og hentes igen dagen efter. Teltet kræver en plan flade på mindst 8 × 14 meter.
+Udstyret leveres og hentes igen dagen efter. Til Sælholm sejles det ud dagen før arrangementet. Teltet kræver en plan flade på mindst 8 × 14 meter.

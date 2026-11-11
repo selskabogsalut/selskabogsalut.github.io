@@ -4,6 +4,7 @@
 #   felt:    navnet i sidens front matter
 #   navn:    kolonne- eller rækkeoverskrift (enheden står her, så cellerne kun indeholder tal)
 #   tal:     true = højrestillet tal
+#   dato:    true = holdes på én linje i tabeller
 #   liste:   true = vises også som kolonne på afsnittets oversigtsside
 #   link:    værdien er filnavnet (uden .md) på en side i den nævnte samling, og der laves et link
 #
@@ -13,13 +14,16 @@
 #   kolonner: samme opbygning som fakta
 #
 # Værdierne true/false vises som Ja/Nej. Tomme felter vises som tomme celler.
+# "Leverer til" er enten en kommasepareret liste af øer eller "Alle øer".
 
 spisesteder:
   fakta:
-    - { felt: type, navn: Type, liste: true }
+    - { felt: oe, navn: Ø, liste: true }
+    - { felt: privat_oe, navn: Privat ø, liste: true }
+    - { felt: type, navn: Type }
     - { felt: kapacitet, navn: "Kapacitet (siddende gæster)", tal: true, liste: true }
     - { felt: leje_pr_aften, navn: "Leje pr. aften (kr.)", tal: true, liste: true }
-    - { felt: afstand_til_faergehavn_m, navn: "Afstand til færgehavn (m)", tal: true, liste: true }
+    - { felt: afstand_til_havn_m, navn: "Afstand fra havn (m)", tal: true, liste: true }
     - { felt: eget_koekken, navn: "Eget køkken", liste: true }
     - { felt: trinfri_adgang, navn: "Trinfri adgang" }
     - { felt: vaerelser, navn: "Overnatning (værelser)", tal: true }
@@ -32,9 +36,10 @@ spisesteder:
         - { felt: staaende, navn: "Stående pladser", tal: true }
         - { felt: tillaeg, navn: "Tillæg (kr.)", tal: true }
 
-menuer:
+catering:
   fakta:
     - { felt: koekken, navn: Køkken, liste: true }
+    - { felt: leverer_til, navn: Leverer til, liste: true }
     - { felt: min_kuverter, navn: "Mindst (kuverter)", tal: true, liste: true }
     - { felt: max_kuverter, navn: "Højst (kuverter)", tal: true, liste: true }
     - { felt: bestilles_senest_dage, navn: "Bestilles senest (dage før)", tal: true, liste: true }
@@ -51,6 +56,7 @@ menuer:
 leverandoerer:
   fakta:
     - { felt: kategori, navn: Kategori, liste: true }
+    - { felt: leverer_til, navn: Leverer til, liste: true }
     - { felt: leveringsgebyr, navn: "Leveringsgebyr (kr.)", tal: true, liste: true }
     - { felt: bestilles_senest_dage, navn: "Bestilles senest (dage før)", tal: true, liste: true }
     - { felt: mindste_ordre, navn: "Mindste ordre (kr.)", tal: true }
@@ -64,6 +70,7 @@ leverandoerer:
 
 transport:
   fakta:
+    - { felt: type, navn: Type, liste: true }
     - { felt: operatoer, navn: Operatør, liste: true }
     - { felt: fra, navn: Fra, liste: true }
     - { felt: til, navn: Til, liste: true }
@@ -76,17 +83,30 @@ transport:
         - { felt: afgang, navn: Afgang, tal: true }
         - { felt: ankomst, navn: Ankomst, tal: true }
         - { felt: dage, navn: Dage }
-    - felt: billetpriser
-      titel: Billetpriser
+    - felt: sejltider
+      titel: Sejltider
       kolonner:
-        - { felt: billettype, navn: Billettype }
+        - { felt: til, navn: Til }
+        - { felt: minutter, navn: "Sejltid (min.)", tal: true }
+    - felt: priser
+      titel: Priser
+      kolonner:
+        - { felt: ydelse, navn: Pris for }
         - { felt: pris, navn: "Pris (kr.)", tal: true }
 
 arkiv:
   fakta:
-    - { felt: dato, navn: Dato, liste: true }
+    - { felt: dato, navn: Dato, dato: true, liste: true }
     - { felt: anledning, navn: Anledning, liste: true }
     - { felt: gaester, navn: Gæster, tal: true, liste: true }
     - { felt: spisested, navn: Spisested, link: spisesteder, liste: true }
-    - { felt: menu, navn: Menu, link: menuer }
+    - { felt: menu, navn: Catering, link: catering }
     - { felt: samlet_pris, navn: "Samlet pris (kr.)", tal: true }
+
+# Fildeling (intern). Brødteksten er teksten under front matter i hver fil.
+fildeling:
+  fakta:
+    - { felt: dato, navn: Dato, dato: true, liste: true }
+    - { felt: kilde, navn: Kilde, liste: true }
+    - { felt: type, navn: Type, liste: true }
+    - { felt: forfatter, navn: Forfatter }
