@@ -1,6 +1,6 @@
 ---
 layout: sektion
-title: Avisudlip
+title: Filer
 samling: fildeling
 permalink: /fildeling/
 last_modified_at: 2026-11-11
