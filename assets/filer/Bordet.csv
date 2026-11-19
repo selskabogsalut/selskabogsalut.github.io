@@ -1,0 +1,26 @@
+﻿plads;side;nummer;naboer;overfor;afstand_til_bordenden;bemaerkning
+Bordenden;;0;H1, V1;;0;Konsulens plads
+H1;højre;1;Bordenden, H2;V1;1;Æresgæstens plads
+V1;venstre;1;Bordenden, V2;H1;1;
+H2;højre;2;H1, H3;V2;2;
+V2;venstre;2;V1, V3;H2;2;
+H3;højre;3;H2, H4;V3;3;
+V3;venstre;3;V2, V4;H3;3;
+H4;højre;4;H3, H5;V4;4;
+V4;venstre;4;V3, V5;H4;4;
+H5;højre;5;H4, H6;V5;5;
+V5;venstre;5;V4, V6;H5;5;
+H6;højre;6;H5, H7;V6;6;
+V6;venstre;6;V5, V7;H6;6;
+H7;højre;7;H6, H8;V7;7;
+V7;venstre;7;V6, V8;H7;7;
+H8;højre;8;H7, H9;V8;8;
+V8;venstre;8;V7, V9;H8;8;
+H9;højre;9;H8, H10;V9;9;
+V9;venstre;9;V8, V10;H9;9;
+H10;højre;10;H9, H11;V10;10;
+V10;venstre;10;V9, V11;H10;10;
+H11;højre;11;H10, H12;V11;11;
+V11;venstre;11;V10, V12;H11;11;
+H12;højre;12;H11;V12;12;
+V12;venstre;12;V11;H12;12;

@@ -1,0 +1,585 @@
+﻿type;linje;fra;til;afgang;ankomst;varighed_min;bemaerkning
+tog;IC 100;Aarhus H;Fredericia st.;06.20;06.58;;
+tog;IC 100;Aarhus H;Fredericia st.;07.20;07.58;;
+tog;IC 100;Aarhus H;Fredericia st.;08.20;08.58;;
+tog;IC 100;Aarhus H;Fredericia st.;09.20;09.58;;
+tog;IC 100;Aarhus H;Fredericia st.;10.20;10.58;;
+tog;IC 100;Aarhus H;Fredericia st.;11.20;11.58;;
+tog;IC 100;Aarhus H;Fredericia st.;12.20;12.58;;
+tog;IC 100;Aarhus H;Fredericia st.;13.20;13.58;;
+tog;IC 100;Aarhus H;Fredericia st.;14.20;14.58;;
+tog;IC 100;Aarhus H;Fredericia st.;15.20;15.58;;
+tog;IC 100;Aarhus H;Fredericia st.;16.20;16.58;;
+tog;IC 100;Aarhus H;Fredericia st.;17.20;17.58;;
+tog;IC 100;Aarhus H;Fredericia st.;18.20;18.58;;
+tog;IC 100;Aarhus H;Fredericia st.;19.20;19.58;;
+tog;IC 100;Fredericia st.;Odense st.;06.58;07.42;;
+tog;IC 100;Fredericia st.;Odense st.;07.58;08.42;;
+tog;IC 100;Fredericia st.;Aarhus H;08.44;09.22;;
+tog;IC 100;Fredericia st.;Odense st.;08.58;09.42;;
+tog;IC 100;Fredericia st.;Aarhus H;09.44;10.22;;
+tog;IC 100;Fredericia st.;Odense st.;09.58;10.42;;
+tog;IC 100;Fredericia st.;Aarhus H;10.44;11.22;;
+tog;IC 100;Fredericia st.;Odense st.;10.58;11.42;;
+tog;IC 100;Fredericia st.;Aarhus H;11.44;12.22;;
+tog;IC 100;Fredericia st.;Odense st.;11.58;12.42;;
+tog;IC 100;Fredericia st.;Aarhus H;12.44;13.22;;
+tog;IC 100;Fredericia st.;Odense st.;12.58;13.42;;
+tog;IC 100;Fredericia st.;Aarhus H;13.44;14.22;;
+tog;IC 100;Fredericia st.;Odense st.;13.58;14.42;;
+tog;IC 100;Fredericia st.;Aarhus H;14.44;15.22;;
+tog;IC 100;Fredericia st.;Odense st.;14.58;15.42;;
+tog;IC 100;Fredericia st.;Aarhus H;15.44;16.22;;
+tog;IC 100;Fredericia st.;Odense st.;15.58;16.42;;
+tog;IC 100;Fredericia st.;Aarhus H;16.44;17.22;;
+tog;IC 100;Fredericia st.;Odense st.;16.58;17.42;;
+tog;IC 100;Fredericia st.;Aarhus H;17.44;18.22;;
+tog;IC 100;Fredericia st.;Odense st.;17.58;18.42;;
+tog;IC 100;Fredericia st.;Aarhus H;18.44;19.22;;
+tog;IC 100;Fredericia st.;Odense st.;18.58;19.42;;
+tog;IC 100;Fredericia st.;Aarhus H;19.44;20.22;;
+tog;IC 100;Fredericia st.;Odense st.;19.58;20.42;;
+tog;IC 100;Fredericia st.;Aarhus H;20.44;21.22;;
+tog;IC 100;Fredericia st.;Aarhus H;21.44;22.22;;
+tog;IC 100;København H;Ringsted st.;06.30;07.02;;
+tog;IC 100;København H;Ringsted st.;07.30;08.02;;
+tog;IC 100;København H;Ringsted st.;08.30;09.02;;
+tog;IC 100;København H;Ringsted st.;09.30;10.02;;
+tog;IC 100;København H;Ringsted st.;10.30;11.02;;
+tog;IC 100;København H;Ringsted st.;11.30;12.02;;
+tog;IC 100;København H;Ringsted st.;12.30;13.02;;
+tog;IC 100;København H;Ringsted st.;13.30;14.02;;
+tog;IC 100;København H;Ringsted st.;14.30;15.02;;
+tog;IC 100;København H;Ringsted st.;15.30;16.02;;
+tog;IC 100;København H;Ringsted st.;16.30;17.02;;
+tog;IC 100;København H;Ringsted st.;17.30;18.02;;
+tog;IC 100;København H;Ringsted st.;18.30;19.02;;
+tog;IC 100;København H;Ringsted st.;19.30;20.02;;
+tog;IC 100;Odense st.;Ringsted st.;07.42;08.40;;
+tog;IC 100;Odense st.;Fredericia st.;08.00;08.44;;
+tog;IC 100;Odense st.;Ringsted st.;08.42;09.40;;
+tog;IC 100;Odense st.;Fredericia st.;09.00;09.44;;
+tog;IC 100;Odense st.;Ringsted st.;09.42;10.40;;
+tog;IC 100;Odense st.;Fredericia st.;10.00;10.44;;
+tog;IC 100;Odense st.;Ringsted st.;10.42;11.40;;
+tog;IC 100;Odense st.;Fredericia st.;11.00;11.44;;
+tog;IC 100;Odense st.;Ringsted st.;11.42;12.40;;
+tog;IC 100;Odense st.;Fredericia st.;12.00;12.44;;
+tog;IC 100;Odense st.;Ringsted st.;12.42;13.40;;
+tog;IC 100;Odense st.;Fredericia st.;13.00;13.44;;
+tog;IC 100;Odense st.;Ringsted st.;13.42;14.40;;
+tog;IC 100;Odense st.;Fredericia st.;14.00;14.44;;
+tog;IC 100;Odense st.;Ringsted st.;14.42;15.40;;
+tog;IC 100;Odense st.;Fredericia st.;15.00;15.44;;
+tog;IC 100;Odense st.;Ringsted st.;15.42;16.40;;
+tog;IC 100;Odense st.;Fredericia st.;16.00;16.44;;
+tog;IC 100;Odense st.;Ringsted st.;16.42;17.40;;
+tog;IC 100;Odense st.;Fredericia st.;17.00;17.44;;
+tog;IC 100;Odense st.;Ringsted st.;17.42;18.40;;
+tog;IC 100;Odense st.;Fredericia st.;18.00;18.44;;
+tog;IC 100;Odense st.;Ringsted st.;18.42;19.40;;
+tog;IC 100;Odense st.;Fredericia st.;19.00;19.44;;
+tog;IC 100;Odense st.;Ringsted st.;19.42;20.40;;
+tog;IC 100;Odense st.;Fredericia st.;20.00;20.44;;
+tog;IC 100;Odense st.;Ringsted st.;20.42;21.40;;
+tog;IC 100;Odense st.;Fredericia st.;21.00;21.44;;
+tog;IC 100;Ringsted st.;Odense st.;07.02;08.00;;
+tog;IC 100;Ringsted st.;Odense st.;08.02;09.00;;
+tog;IC 100;Ringsted st.;København H;08.40;09.12;;
+tog;IC 100;Ringsted st.;Odense st.;09.02;10.00;;
+tog;IC 100;Ringsted st.;København H;09.40;10.12;;
+tog;IC 100;Ringsted st.;Odense st.;10.02;11.00;;
+tog;IC 100;Ringsted st.;København H;10.40;11.12;;
+tog;IC 100;Ringsted st.;Odense st.;11.02;12.00;;
+tog;IC 100;Ringsted st.;København H;11.40;12.12;;
+tog;IC 100;Ringsted st.;Odense st.;12.02;13.00;;
+tog;IC 100;Ringsted st.;København H;12.40;13.12;;
+tog;IC 100;Ringsted st.;Odense st.;13.02;14.00;;
+tog;IC 100;Ringsted st.;København H;13.40;14.12;;
+tog;IC 100;Ringsted st.;Odense st.;14.02;15.00;;
+tog;IC 100;Ringsted st.;København H;14.40;15.12;;
+tog;IC 100;Ringsted st.;Odense st.;15.02;16.00;;
+tog;IC 100;Ringsted st.;København H;15.40;16.12;;
+tog;IC 100;Ringsted st.;Odense st.;16.02;17.00;;
+tog;IC 100;Ringsted st.;København H;16.40;17.12;;
+tog;IC 100;Ringsted st.;Odense st.;17.02;18.00;;
+tog;IC 100;Ringsted st.;København H;17.40;18.12;;
+tog;IC 100;Ringsted st.;Odense st.;18.02;19.00;;
+tog;IC 100;Ringsted st.;København H;18.40;19.12;;
+tog;IC 100;Ringsted st.;Odense st.;19.02;20.00;;
+tog;IC 100;Ringsted st.;København H;19.40;20.12;;
+tog;IC 100;Ringsted st.;Odense st.;20.02;21.00;;
+tog;IC 100;Ringsted st.;København H;20.40;21.12;;
+tog;IC 100;Ringsted st.;København H;21.40;22.12;;
+tog;Kystbanen;København H;Helsingør st.;08.05;08.50;;
+tog;Kystbanen;København H;Helsingør st.;09.05;09.50;;
+tog;Kystbanen;København H;Helsingør st.;10.05;10.50;;
+tog;Kystbanen;København H;Helsingør st.;11.05;11.50;;
+tog;Kystbanen;København H;Helsingør st.;12.05;12.50;;
+tog;Kystbanen;København H;Helsingør st.;13.05;13.50;;
+tog;Kystbanen;København H;Helsingør st.;14.05;14.50;;
+tog;Kystbanen;København H;Helsingør st.;15.05;15.50;;
+tog;Kystbanen;København H;Helsingør st.;16.05;16.50;;
+tog;Kystbanen;København H;Helsingør st.;17.05;17.50;;
+tog;Kystbanen;København H;Helsingør st.;18.05;18.50;;
+tog;Kystbanen;København H;Helsingør st.;19.05;19.50;;
+tog;Kystbanen;København H;Helsingør st.;20.05;20.50;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;06.33;06.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;06.33;07.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;07.03;07.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;07.13;07.41;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;07.33;07.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;07.33;08.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;08.03;08.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;08.13;08.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;08.33;09.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;08.33;08.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;09.03;09.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;09.13;09.41;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;09.33;09.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;09.33;10.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;10.03;10.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;10.13;10.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;10.33;11.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;10.33;10.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;11.03;11.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;11.13;11.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;11.33;12.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;11.33;11.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;12.03;12.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;12.13;12.41;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;12.33;12.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;12.33;13.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;13.03;13.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;13.13;13.41;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;13.33;13.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;13.33;14.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;14.03;14.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;14.13;14.41;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;14.33;14.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;14.33;15.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;15.03;15.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;15.13;15.41;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;15.33;15.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;15.33;16.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;16.03;16.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;16.13;16.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;16.33;17.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;16.33;16.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;17.03;17.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;17.13;17.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;17.33;18.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;17.33;17.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;18.03;18.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;18.13;18.41;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;18.33;18.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;18.33;19.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;19.03;19.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;19.13;19.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;19.33;20.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;19.33;19.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;20.03;20.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;20.13;20.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;20.33;21.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;20.33;20.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;21.03;21.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;21.13;21.41;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;21.33;22.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;21.33;21.56;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;22.03;22.26;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;22.13;22.41;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;06.05;06.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;06.35;07.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;07.05;07.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;07.35;08.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;08.05;08.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;08.35;09.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;09.05;09.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;09.35;10.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;10.05;10.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;10.35;11.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;11.05;11.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;11.35;12.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;12.05;12.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;12.35;13.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;13.05;13.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;13.35;14.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;14.05;14.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;14.35;15.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;15.05;15.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;15.35;16.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;16.05;16.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;16.35;17.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;17.05;17.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;17.35;18.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;18.05;18.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;18.35;19.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;19.05;19.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;19.35;20.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;20.05;20.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;20.35;21.03;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;21.05;21.33;;
+tog;Lokaltog L 10;Nakskov st.;Maribo st.;21.35;22.03;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;06.10;06.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;06.50;07.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;07.10;07.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;07.50;08.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;08.10;08.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;08.50;09.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;09.10;09.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;09.50;10.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;10.10;10.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;10.50;11.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;11.10;11.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;11.50;12.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;12.10;12.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;12.50;13.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;13.10;13.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;13.50;14.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;14.10;14.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;14.50;15.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;15.10;15.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;15.50;16.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;16.10;16.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;16.50;17.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;17.10;17.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;17.50;18.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;18.10;18.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;18.50;19.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;19.10;19.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;19.50;20.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;20.10;20.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;20.50;21.13;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;21.10;21.33;;
+tog;Lokaltog L 10;Nykøbing F st.;Maribo st.;21.50;22.13;;
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;07.30;07.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;08.30;08.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;09.30;09.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;10.30;10.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;11.30;11.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;12.30;12.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;13.30;13.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;14.30;14.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;15.30;15.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;16.30;16.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;17.30;17.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;18.30;18.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;19.30;19.56;;Kører kun i sommerhalvåret
+tog;Lokaltog L 20;Nykøbing F st.;Gedser st.;20.30;20.56;;Kører kun i sommerhalvåret
+tog;RE 8;Hamburg Hbf;Lübeck Hbf;08.36;09.21;;Kører hver anden time
+tog;RE 8;Hamburg Hbf;Lübeck Hbf;10.36;11.21;;Kører hver anden time
+tog;RE 8;Hamburg Hbf;Lübeck Hbf;12.36;13.21;;Kører hver anden time
+tog;RE 8;Hamburg Hbf;Lübeck Hbf;14.36;15.21;;Kører hver anden time
+tog;RE 8;Hamburg Hbf;Lübeck Hbf;16.36;17.21;;Kører hver anden time
+tog;RE 8;Hamburg Hbf;Lübeck Hbf;18.36;19.21;;Kører hver anden time
+tog;RE 8;Lübeck Hbf;Puttgarden;09.21;10.20;;Kører hver anden time
+tog;RE 8;Lübeck Hbf;Puttgarden;11.21;12.20;;Kører hver anden time
+tog;RE 8;Lübeck Hbf;Puttgarden;13.21;14.20;;Kører hver anden time
+tog;RE 8;Lübeck Hbf;Puttgarden;15.21;16.20;;Kører hver anden time
+tog;RE 8;Lübeck Hbf;Puttgarden;17.21;18.20;;Kører hver anden time
+tog;RE 8;Lübeck Hbf;Puttgarden;19.21;20.20;;Kører hver anden time
+tog;Regionaltog RE 2200;København H;Ringsted st.;06.52;07.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;07.52;08.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;08.52;09.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;09.52;10.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;10.52;11.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;11.52;12.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;12.52;13.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;13.52;14.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;14.52;15.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;15.52;16.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;16.52;17.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;17.52;18.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;18.52;19.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;19.52;20.29;;
+tog;Regionaltog RE 2200;København H;Ringsted st.;20.52;21.29;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;06.15;06.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;07.15;07.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;08.15;08.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;09.15;09.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;10.15;10.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;11.15;11.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;12.15;12.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;13.15;13.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;14.15;14.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;15.15;15.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;16.15;16.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;17.15;17.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;18.15;18.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;19.15;19.51;;
+tog;Regionaltog RE 2200;Nykøbing F st.;Vordingborg st.;20.15;20.51;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;07.09;07.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;07.46;08.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;08.09;08.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;08.46;09.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;09.09;09.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;09.46;10.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;10.09;10.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;10.46;11.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;11.09;11.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;11.46;12.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;12.09;12.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;12.46;13.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;13.09;13.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;13.46;14.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;14.09;14.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;14.46;15.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;15.09;15.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;15.46;16.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;16.09;16.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;16.46;17.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;17.09;17.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;17.46;18.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;18.09;18.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;18.46;19.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;19.09;19.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;19.46;20.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;20.09;20.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;20.46;21.04;;
+tog;Regionaltog RE 2200;Næstved st.;Ringsted st.;21.09;21.26;;
+tog;Regionaltog RE 2200;Næstved st.;Vordingborg st.;21.46;22.04;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;07.26;08.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;07.29;07.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;08.26;09.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;08.29;08.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;09.26;10.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;09.29;09.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;10.26;11.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;10.29;10.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;11.26;12.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;11.29;11.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;12.26;13.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;12.29;12.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;13.26;14.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;13.29;13.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;14.26;15.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;14.29;14.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;15.26;16.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;15.29;15.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;16.26;17.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;16.29;16.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;17.26;18.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;17.29;17.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;18.26;19.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;18.29;18.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;19.26;20.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;19.29;19.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;20.26;21.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;20.29;20.46;;
+tog;Regionaltog RE 2200;Ringsted st.;København H;21.26;22.03;;
+tog;Regionaltog RE 2200;Ringsted st.;Næstved st.;21.29;21.46;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;06.51;07.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;07.51;08.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;08.04;08.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;08.51;09.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;09.04;09.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;09.51;10.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;10.04;10.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;10.51;11.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;11.04;11.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;11.51;12.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;12.04;12.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;12.51;13.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;13.04;13.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;13.51;14.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;14.04;14.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;14.51;15.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;15.04;15.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;15.51;16.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;16.04;16.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;16.51;17.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;17.04;17.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;17.51;18.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;18.04;18.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;18.51;19.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;19.04;19.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;19.51;20.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;20.04;20.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Næstved st.;20.51;21.09;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;21.04;21.40;;
+tog;Regionaltog RE 2200;Vordingborg st.;Nykøbing F st.;22.04;22.40;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;08.12;08.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;09.12;09.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;10.12;10.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;11.12;11.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;12.12;12.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;13.12;13.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;14.12;14.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;15.12;15.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;16.12;16.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;17.12;17.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;18.12;18.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;19.12;19.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;20.12;20.30;;
+tog;Regionaltog RE 2400;Næstved st.;Vordingborg st.;21.12;21.30;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;07.55;08.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;08.55;09.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;09.55;10.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;10.55;11.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;11.55;12.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;12.55;13.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;13.55;14.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;14.55;15.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;15.55;16.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;16.55;17.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;17.55;18.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;18.55;19.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;19.55;20.12;;
+tog;Regionaltog RE 2400;Ringsted st.;Næstved st.;20.55;21.12;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;08.30;08.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;09.30;09.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;10.30;10.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;11.30;11.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;12.30;12.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;13.30;13.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;14.30;14.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;15.30;15.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;16.30;16.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;17.30;17.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;18.30;18.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;19.30;19.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;20.30;20.58;;
+tog;Regionaltog RE 2400;Vordingborg st.;Nykøbing F st.;21.30;21.58;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;11.00;11.25;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;11.10;11.35;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;11.20;11.45;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;11.30;11.55;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;11.40;12.05;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;11.50;12.15;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;12.00;12.25;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;12.10;12.35;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;12.20;12.45;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;12.30;12.55;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;12.40;13.05;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;12.50;13.15;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;13.00;13.25;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;13.10;13.35;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;13.20;13.45;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;13.30;13.55;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;13.40;14.05;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;13.50;14.15;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;14.00;14.25;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;14.10;14.35;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;14.20;14.45;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;14.30;14.55;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;14.40;15.05;;
+tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;14.50;15.15;;
+bil;Køretid;Bandholm;Bandholm Havn;;;0;Normal trafik
+bil;Køretid;Bandholm;Kragenæs Havn;;;25;Normal trafik
+bil;Køretid;Hamborg;Puttgarden;;;105;Normal trafik
+bil;Køretid;Kragenæs;Bandholm Havn;;;25;Normal trafik
+bil;Køretid;Kragenæs;Kragenæs Havn;;;0;Normal trafik
+bil;Køretid;Maribo;Bandholm Havn;;;10;Normal trafik
+bil;Køretid;Maribo;Kragenæs Havn;;;30;Normal trafik
+bil;Køretid;Maribo;Nykøbing F;;;25;Normal trafik
+bil;Køretid;Nakskov;Rødby;;;30;Normal trafik
+bil;Køretid;Nakskov;Kragenæs Havn;;;30;Normal trafik
+bil;Køretid;Nakskov;Maribo;;;30;Normal trafik
+bil;Køretid;Nakskov;Bandholm Havn;;;40;Normal trafik
+bil;Køretid;Nykøbing F;Kragenæs Havn;;;55;Normal trafik
+bil;Køretid;Nykøbing F;Gedser;;;25;Normal trafik
+bil;Køretid;Nykøbing F;Bandholm Havn;;;35;Normal trafik
+bil;Køretid;Rødby Færgehavn;Bandholm Havn;;;35;Normal trafik
+bil;Køretid;Rødby Færgehavn;Kragenæs Havn;;;45;Normal trafik
+bil;Køretid;Svendborg;Spodsbjerg Færgehavn;;;30;Normal trafik
+bil;Køretid;Tårs Færgehavn;Bandholm Havn;;;50;Normal trafik
+bil;Køretid;Tårs Færgehavn;Kragenæs Havn;;;30;Normal trafik
+bil;Køretid;Vordingborg;Bandholm Havn;;;50;Normal trafik
+bil;Køretid;Vordingborg;Kragenæs Havn;;;70;Normal trafik
+bus;Bus 735;Bandholm Havn;Maribo st.;09.45;10.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;10.45;11.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;11.45;12.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;12.45;13.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;13.45;14.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;14.45;15.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;15.45;16.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;16.45;17.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;17.45;18.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;18.45;19.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;19.45;20.05;;
+bus;Bus 735;Bandholm Havn;Maribo st.;20.45;21.05;;
+bus;Bus 735;Maribo st.;Bandholm Havn;09.20;09.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;10.20;10.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;11.20;11.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;12.20;12.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;13.20;13.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;14.20;14.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;15.20;15.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;16.20;16.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;17.20;17.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;18.20;18.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;19.20;19.40;;
+bus;Bus 735;Maribo st.;Bandholm Havn;20.20;20.40;;
+bus;Bus 740;Maribo st.;Kragenæs Havn;10.05;10.50;;Via Horslunde
+bus;Bus 740;Maribo st.;Kragenæs Havn;12.05;12.50;;Via Horslunde
+bus;Bus 740;Maribo st.;Kragenæs Havn;14.05;14.50;;Via Horslunde
+bus;Bus 740;Maribo st.;Kragenæs Havn;16.05;16.50;;Via Horslunde
+bus;Bus 740;Maribo st.;Kragenæs Havn;18.05;18.50;;Via Horslunde
+bus;Bus 746;Nakskov st.;Rødby;09.40;10.18;;
+bus;Bus 746;Nakskov st.;Rødby;11.40;12.18;;
+bus;Bus 746;Nakskov st.;Rødby;13.40;14.18;;
+bus;Bus 746;Nakskov st.;Rødby;15.40;16.18;;
+bus;Bus 746;Nakskov st.;Rødby;17.40;18.18;;
+bus;Bus 800;Nykøbing F st.;Nysted;10.15;10.45;;
+bus;Bus 800;Nykøbing F st.;Nysted;13.15;13.45;;
+bus;Bus 800;Nykøbing F st.;Nysted;16.15;16.45;;
+fly;KL 1781;Rotterdam lufthavn;Hamburg Airport;10.55;12.15;;Check-in senest 10.25
+fly;KL 1785;Rotterdam lufthavn;Hamburg Airport;17.40;19.00;;
+fly;SK 1424;København Lufthavn;Hamburg Airport;09.10;10.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;11.20;12.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;11.50;12.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;12.20;13.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;12.50;13.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;13.20;14.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;13.50;14.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;14.20;15.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;14.50;15.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;15.20;16.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;15.50;16.35;;Kun én færge i drift 15.50–17.00 på grund af vedligehold
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;16.35;17.20;;Kun én færge i drift 15.50–17.00 på grund af vedligehold
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;17.05;17.50;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;17.35;18.20;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;18.05;18.50;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;18.35;19.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;12.05;12.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;13.05;13.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;14.05;14.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;15.05;15.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;16.05;16.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;17.05;17.20;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;07.25;08.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;08.25;09.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;09.25;10.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;10.25;11.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;11.25;12.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;12.25;13.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;13.25;14.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;14.25;15.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;15.25;16.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;16.25;17.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;17.25;18.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;18.25;19.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;19.25;20.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;20.25;21.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;21.25;22.10;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;07.05;07.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;08.05;08.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;09.05;09.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;10.05;10.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;11.05;11.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;12.05;12.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;13.05;13.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;14.05;14.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;15.05;15.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;16.05;16.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;17.05;17.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;18.05;18.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;19.05;19.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;20.05;20.50;;
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;21.05;21.50;;
+taxa;Lolland Taxa;Maribo st.;Kragenæs Havn;;;32;Bestilles på holdepladsen. Varighed inkl. ventetid
+taxa;Lolland Taxa;Maribo st.;Bandholm Havn;;;12;Bestilles på holdepladsen. Varighed inkl. ventetid
+taxa;Lolland Taxa;Nakskov st.;Kragenæs Havn;;;30;Bestilles på holdepladsen. Varighed inkl. ventetid
+taxa;Lolland Taxa;Nakskov st.;Bandholm Havn;;;40;Bestilles på holdepladsen. Varighed inkl. ventetid
+taxa;Lolland Taxa;Rødby Færgehavn;Kragenæs Havn;;;45;Bestilles på holdepladsen. Varighed inkl. ventetid
+taxa;Lolland Taxa;Rødby Færgehavn;Bandholm Havn;;;35;Bestilles på holdepladsen. Varighed inkl. ventetid

@@ -76,6 +76,7 @@ transport:
     - { felt: til, navn: Til, liste: true }
     - { felt: varighed_min, navn: "Varighed (min.)", tal: true, liste: true }
     - { felt: max_passagerer, navn: "Højst (passagerer)", tal: true }
+    - { felt: dybgang_cm, navn: "Dybgang (cm)", tal: true }
   tabeller:
     - felt: afgange
       titel: Afgange
