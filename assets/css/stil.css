@@ -555,3 +555,10 @@ main {
     color: #000;
   }
 }
+
+.prosa img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 1em;
+}
