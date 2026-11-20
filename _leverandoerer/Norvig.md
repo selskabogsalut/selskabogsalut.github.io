@@ -4,7 +4,7 @@ description: Reservedele og formidler skrogreparationer til mindre fragtskibe i 
 kategori: Marineudstyr og reparationer
 leverer_til: Alle havne
 leveringsgebyr: 950
-bestilles_senest_dage: 1
+bestilles_senest_dage: 14
 mindste_ordre: 5000
 prisliste:
   - { vare: Brændstoffilter til hovedmotor, enhed: stk., pris: 1850 }
