@@ -1,6 +1,7 @@
 ---
 title: Vandtaxa Nakskov Fjord
 description: Vandtaxa til øerne i Nakskov Fjord.
+type: Taxabåd
 operatoer: Nakskov Vandtaxa
 fra: Nakskov
 til: Albuen, Enehøje

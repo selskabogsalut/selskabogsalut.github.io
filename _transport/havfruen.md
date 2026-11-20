@@ -1,6 +1,7 @@
 ---
 title: Havfruen
 description: Kutter til fisketure for op til 12 lystfiskere.
+type: Charter
 operatoer: Bandholm Fisketure
 fra: Bandholm
 til: Fiskepladserne i Smålandsfarvandet

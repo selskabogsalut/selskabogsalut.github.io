@@ -1,6 +1,7 @@
 ---
 title: M/S Lollandia
 description: Feederskib mellem Hamborg og Østersøen.
+type: Fragtskib
 operatoer: Rederiet Ravn & Søn A/S
 fra: Nakskov
 til: Hamborg, Klaipėda

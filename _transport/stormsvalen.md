@@ -1,6 +1,7 @@
 ---
 title: Stormsvalen
 description: Hurtig RIB til fire passagerer.
+type: Taxabåd
 operatoer: Smålands RIB-ture, Kragenæs
 fra: Kragenæs, Bandholm
 til: Ravnsholm, Fejø, Femø

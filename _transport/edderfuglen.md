@@ -1,6 +1,7 @@
 ---
 title: M/S Edderfuglen
 description: Sejler gødning og korn mellem Lolland og Baltikum.
+type: Fragtskib
 operatoer: Rederiet Ravn & Søn A/S
 fra: Nakskov
 til: Gdynia, Klaipėda

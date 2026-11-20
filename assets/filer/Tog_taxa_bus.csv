@@ -124,8 +124,8 @@ tog;Kystbanen;København H;Helsingør st.;17.05;17.50;;
 tog;Kystbanen;København H;Helsingør st.;18.05;18.50;;
 tog;Kystbanen;København H;Helsingør st.;19.05;19.50;;
 tog;Kystbanen;København H;Helsingør st.;20.05;20.50;;
-tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;06.33;06.56;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;06.33;07.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;06.33;06.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;07.03;07.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;07.13;07.41;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;07.33;07.56;;
@@ -136,8 +136,8 @@ tog;Lokaltog L 10;Maribo st.;Nakskov st.;08.33;09.01;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;08.33;08.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;09.03;09.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;09.13;09.41;;
-tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;09.33;09.56;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;09.33;10.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;09.33;09.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;10.03;10.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;10.13;10.41;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;10.33;11.01;;
@@ -148,32 +148,32 @@ tog;Lokaltog L 10;Maribo st.;Nakskov st.;11.33;12.01;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;11.33;11.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;12.03;12.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;12.13;12.41;;
-tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;12.33;12.56;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;12.33;13.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;12.33;12.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;13.03;13.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;13.13;13.41;;
-tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;13.33;13.56;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;13.33;14.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;13.33;13.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;14.03;14.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;14.13;14.41;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;14.33;14.56;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;14.33;15.01;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;15.03;15.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;15.13;15.41;;
-tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;15.33;15.56;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;15.33;16.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;15.33;15.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;16.03;16.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;16.13;16.41;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;16.33;17.01;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;16.33;16.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;17.03;17.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;17.13;17.41;;
-tog;Lokaltog L 10;Maribo st.;Nakskov st.;17.33;18.01;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;17.33;17.56;;
+tog;Lokaltog L 10;Maribo st.;Nakskov st.;17.33;18.01;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;18.03;18.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;18.13;18.41;;
-tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;18.33;18.56;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;18.33;19.01;;
+tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;18.33;18.56;;
 tog;Lokaltog L 10;Maribo st.;Nykøbing F st.;19.03;19.26;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;19.13;19.41;;
 tog;Lokaltog L 10;Maribo st.;Nakskov st.;19.33;20.01;;
@@ -467,23 +467,23 @@ tog;S-Bahn S1;Hamburg Airport;Hamburg Hbf;14.50;15.15;;
 bil;Køretid;Bandholm;Bandholm Havn;;;0;Normal trafik
 bil;Køretid;Bandholm;Kragenæs Havn;;;25;Normal trafik
 bil;Køretid;Hamborg;Puttgarden;;;105;Normal trafik
-bil;Køretid;Kragenæs;Bandholm Havn;;;25;Normal trafik
 bil;Køretid;Kragenæs;Kragenæs Havn;;;0;Normal trafik
+bil;Køretid;Kragenæs;Bandholm Havn;;;25;Normal trafik
+bil;Køretid;Maribo;Nykøbing F;;;25;Normal trafik
 bil;Køretid;Maribo;Bandholm Havn;;;10;Normal trafik
 bil;Køretid;Maribo;Kragenæs Havn;;;30;Normal trafik
-bil;Køretid;Maribo;Nykøbing F;;;25;Normal trafik
-bil;Køretid;Nakskov;Rødby;;;30;Normal trafik
-bil;Køretid;Nakskov;Kragenæs Havn;;;30;Normal trafik
 bil;Køretid;Nakskov;Maribo;;;30;Normal trafik
+bil;Køretid;Nakskov;Kragenæs Havn;;;30;Normal trafik
 bil;Køretid;Nakskov;Bandholm Havn;;;40;Normal trafik
-bil;Køretid;Nykøbing F;Kragenæs Havn;;;55;Normal trafik
+bil;Køretid;Nakskov;Rødby;;;30;Normal trafik
 bil;Køretid;Nykøbing F;Gedser;;;25;Normal trafik
+bil;Køretid;Nykøbing F;Kragenæs Havn;;;55;Normal trafik
 bil;Køretid;Nykøbing F;Bandholm Havn;;;35;Normal trafik
-bil;Køretid;Rødby Færgehavn;Bandholm Havn;;;35;Normal trafik
 bil;Køretid;Rødby Færgehavn;Kragenæs Havn;;;45;Normal trafik
+bil;Køretid;Rødby Færgehavn;Bandholm Havn;;;35;Normal trafik
 bil;Køretid;Svendborg;Spodsbjerg Færgehavn;;;30;Normal trafik
-bil;Køretid;Tårs Færgehavn;Bandholm Havn;;;50;Normal trafik
 bil;Køretid;Tårs Færgehavn;Kragenæs Havn;;;30;Normal trafik
+bil;Køretid;Tårs Færgehavn;Bandholm Havn;;;50;Normal trafik
 bil;Køretid;Vordingborg;Bandholm Havn;;;50;Normal trafik
 bil;Køretid;Vordingborg;Kragenæs Havn;;;70;Normal trafik
 bus;Bus 735;Bandholm Havn;Maribo st.;09.45;10.05;;
@@ -526,6 +526,60 @@ bus;Bus 800;Nykøbing F st.;Nysted;16.15;16.45;;
 fly;KL 1781;Rotterdam lufthavn;Hamburg Airport;10.55;12.15;;Check-in senest 10.25
 fly;KL 1785;Rotterdam lufthavn;Hamburg Airport;17.40;19.00;;
 fly;SK 1424;København Lufthavn;Hamburg Airport;09.10;10.05;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;07.30;07.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;08.30;08.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;09.30;09.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;10.30;10.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;11.30;11.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;12.30;12.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;13.30;13.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;14.30;14.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;15.30;15.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;16.30;16.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;17.30;17.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;18.30;18.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;19.30;19.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;20.30;20.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;21.30;21.45;;
+færge;Agersøfærgen;Agersø Havn;Stigsnæs Havn;23.00;23.15;;Kun fredag og lørdag
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;07.00;07.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;08.00;08.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;09.00;09.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;10.00;10.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;11.00;11.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;12.00;12.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;13.00;13.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;14.00;14.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;15.00;15.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;16.00;16.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;17.00;17.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;18.00;18.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;19.00;19.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;20.00;20.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;21.00;21.15;;
+færge;Agersøfærgen;Stigsnæs Havn;Agersø Havn;22.30;22.45;;Kun fredag og lørdag
+færge;Askøfærgen;Askø Havn;Bandholm Havn;06.30;07.05;;Kun hverdage
+færge;Askøfærgen;Askø Havn;Bandholm Havn;08.15;08.50;;
+færge;Askøfærgen;Askø Havn;Bandholm Havn;11.15;11.50;;
+færge;Askøfærgen;Askø Havn;Bandholm Havn;14.15;14.50;;
+færge;Askøfærgen;Askø Havn;Bandholm Havn;17.15;17.50;;
+færge;Askøfærgen;Askø Havn;Bandholm Havn;19.45;20.20;;
+færge;Askøfærgen;Bandholm Havn;Askø Havn;07.15;07.50;;
+færge;Askøfærgen;Bandholm Havn;Askø Havn;10.15;10.50;;
+færge;Askøfærgen;Bandholm Havn;Askø Havn;13.15;13.50;;
+færge;Askøfærgen;Bandholm Havn;Askø Havn;16.15;16.50;;
+færge;Askøfærgen;Bandholm Havn;Askø Havn;18.45;19.20;;
+færge;Askøfærgen;Bandholm Havn;Askø Havn;21.30;22.05;;Kun fredag og lørdag
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;06.20;07.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;06.50;07.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;07.20;08.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;07.50;08.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;08.20;09.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;08.50;09.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;09.20;10.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;09.50;10.35;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;10.20;11.05;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;10.50;11.35;;
 færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;11.20;12.05;;
 færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;11.50;12.35;;
 færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;12.20;13.05;;
@@ -541,12 +595,95 @@ færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;17.05;17.50;;
 færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;17.35;18.20;;
 færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;18.05;18.50;;
 færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;18.35;19.20;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;19.05;19.50;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;19.35;20.20;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;20.05;20.50;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;20.35;21.20;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;21.05;21.50;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;21.35;22.20;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;22.05;22.50;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;22.35;23.20;;
+færge;Fehmarn-færgen;Puttgarden;Rødby Færgehavn;23.30;00.15;;Kun fredag og lørdag
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;06.05;06.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;06.35;07.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;07.05;07.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;07.35;08.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;08.05;08.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;08.35;09.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;09.05;09.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;09.35;10.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;10.05;10.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;10.35;11.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;11.05;11.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;11.35;12.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;12.05;12.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;12.35;13.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;13.05;13.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;13.35;14.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;14.05;14.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;14.35;15.20;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;15.05;15.50;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;15.35;16.20;;Kun én færge i drift 15.50–17.00 på grund af vedligehold
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;16.50;17.35;;Kun én færge i drift 15.50–17.00 på grund af vedligehold
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;17.20;18.05;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;17.50;18.35;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;18.20;19.05;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;18.50;19.35;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;19.20;20.05;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;19.50;20.35;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;20.20;21.05;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;20.50;21.35;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;21.20;22.05;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;21.50;22.35;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;22.20;23.05;;
+færge;Fehmarn-færgen;Rødby Færgehavn;Puttgarden;23.30;00.15;;Kun fredag og lørdag
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;06.30;06.45;;Kun hverdage
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;07.30;07.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;08.30;08.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;09.30;09.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;10.30;10.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;11.30;11.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;12.30;12.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;13.30;13.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;14.30;14.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;15.30;15.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;16.30;16.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;17.30;17.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;18.30;18.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;19.30;19.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;20.30;20.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;21.30;21.45;;
+færge;Fejøfærgen;Fejø Havn;Kragenæs Havn;23.00;23.15;;Kun fredag og lørdag
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;06.05;06.20;;Kun hverdage
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;07.05;07.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;08.05;08.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;09.05;09.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;10.05;10.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;11.05;11.20;;
 færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;12.05;12.20;;
 færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;13.05;13.20;;
 færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;14.05;14.20;;
 færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;15.05;15.20;;
 færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;16.05;16.20;;
 færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;17.05;17.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;18.05;18.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;19.05;19.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;20.05;20.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;21.05;21.20;;
+færge;Fejøfærgen;Kragenæs Havn;Fejø Havn;22.35;22.50;;Kun fredag og lørdag
+færge;Femøfærgen;Femø Havn;Kragenæs Havn;06.00;06.50;;Kun hverdage
+færge;Femøfærgen;Femø Havn;Kragenæs Havn;08.15;09.05;;
+færge;Femøfærgen;Femø Havn;Kragenæs Havn;11.15;12.05;;
+færge;Femøfærgen;Femø Havn;Kragenæs Havn;14.45;15.35;;
+færge;Femøfærgen;Femø Havn;Kragenæs Havn;17.45;18.35;;
+færge;Femøfærgen;Femø Havn;Kragenæs Havn;20.45;21.35;;
+færge;Femøfærgen;Kragenæs Havn;Femø Havn;07.00;07.50;;
+færge;Femøfærgen;Kragenæs Havn;Femø Havn;10.00;10.50;;
+færge;Femøfærgen;Kragenæs Havn;Femø Havn;13.30;14.20;;
+færge;Femøfærgen;Kragenæs Havn;Femø Havn;16.30;17.20;;
+færge;Femøfærgen;Kragenæs Havn;Femø Havn;19.30;20.20;;
+færge;Femøfærgen;Kragenæs Havn;Femø Havn;22.00;22.50;;Kun fredag og lørdag
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;06.25;07.10;;Kun hverdage
 færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;07.25;08.10;;
 færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;08.25;09.10;;
 færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;09.25;10.10;;
@@ -562,6 +699,8 @@ færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;18.25;19.10;;
 færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;19.25;20.10;;
 færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;20.25;21.10;;
 færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;21.25;22.10;;
+færge;Langelandsfærgen;Spodsbjerg Færgehavn;Tårs Færgehavn;22.25;23.10;;Kun fredag og lørdag
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;06.05;06.50;;Kun hverdage
 færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;07.05;07.50;;
 færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;08.05;08.50;;
 færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;09.05;09.50;;
@@ -577,9 +716,22 @@ færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;18.05;18.50;;
 færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;19.05;19.50;;
 færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;20.05;20.50;;
 færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;21.05;21.50;;
-taxa;Lolland Taxa;Maribo st.;Kragenæs Havn;;;32;Bestilles på holdepladsen. Varighed inkl. ventetid
+færge;Langelandsfærgen;Tårs Færgehavn;Spodsbjerg Færgehavn;22.05;22.50;;Kun fredag og lørdag
+færge;Omøfærgen;Omø Havn;Stigsnæs Havn;06.00;06.40;;Kun hverdage
+færge;Omøfærgen;Omø Havn;Stigsnæs Havn;08.15;08.55;;
+færge;Omøfærgen;Omø Havn;Stigsnæs Havn;10.45;11.25;;
+færge;Omøfærgen;Omø Havn;Stigsnæs Havn;13.45;14.25;;
+færge;Omøfærgen;Omø Havn;Stigsnæs Havn;16.45;17.25;;
+færge;Omøfærgen;Omø Havn;Stigsnæs Havn;19.45;20.25;;
+færge;Omøfærgen;Stigsnæs Havn;Omø Havn;07.00;07.40;;
+færge;Omøfærgen;Stigsnæs Havn;Omø Havn;09.30;10.10;;
+færge;Omøfærgen;Stigsnæs Havn;Omø Havn;12.30;13.10;;
+færge;Omøfærgen;Stigsnæs Havn;Omø Havn;15.30;16.10;;
+færge;Omøfærgen;Stigsnæs Havn;Omø Havn;18.30;19.10;;
+færge;Omøfærgen;Stigsnæs Havn;Omø Havn;21.30;22.10;;Kun fredag og lørdag
 taxa;Lolland Taxa;Maribo st.;Bandholm Havn;;;12;Bestilles på holdepladsen. Varighed inkl. ventetid
-taxa;Lolland Taxa;Nakskov st.;Kragenæs Havn;;;30;Bestilles på holdepladsen. Varighed inkl. ventetid
+taxa;Lolland Taxa;Maribo st.;Kragenæs Havn;;;32;Bestilles på holdepladsen. Varighed inkl. ventetid
 taxa;Lolland Taxa;Nakskov st.;Bandholm Havn;;;40;Bestilles på holdepladsen. Varighed inkl. ventetid
+taxa;Lolland Taxa;Nakskov st.;Kragenæs Havn;;;30;Bestilles på holdepladsen. Varighed inkl. ventetid
 taxa;Lolland Taxa;Rødby Færgehavn;Kragenæs Havn;;;45;Bestilles på holdepladsen. Varighed inkl. ventetid
 taxa;Lolland Taxa;Rødby Færgehavn;Bandholm Havn;;;35;Bestilles på holdepladsen. Varighed inkl. ventetid

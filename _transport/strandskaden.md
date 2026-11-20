@@ -1,6 +1,7 @@
 ---
 title: M/S Strandskaden
 description: Mindre stykgodsskib på ruten til Riga.
+type: Fragtskib
 operatoer: Rederiet Ravn & Søn A/S
 fra: Nakskov
 til: Riga

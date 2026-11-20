@@ -1,6 +1,7 @@
 ---
 title: M/S Kragholm II
 description: Opkaldt efter rederiets første skib fra 1971.
+type: Fragtskib
 operatoer: Rederiet Ravn & Søn A/S
 fra: Nakskov
 til: Tallinn, Kotka

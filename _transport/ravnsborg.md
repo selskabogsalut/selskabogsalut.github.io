@@ -1,6 +1,7 @@
 ---
 title: M/S Ravnsborg
 description: Rederiets flagskib. Fast rute med ugentligt anløb i Rotterdam.
+type: Fragtskib
 operatoer: Rederiet Ravn & Søn A/S
 fra: Nakskov
 til: Rotterdam, Gdynia

@@ -1,6 +1,7 @@
 ---
 title: Gamle Anna
 description: Træ-kutter fra 1928 med plads til 12.
+type: Charter
 operatoer: Foreningen Gamle Anna, Bandholm
 fra: Bandholm
 til: Ravnsholm, Askø

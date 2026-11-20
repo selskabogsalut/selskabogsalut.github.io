@@ -1,6 +1,7 @@
 ---
 title: Ravnen
 description: Rederiets motorbåd til gæster og gods til Ravnsholm.
+type: Taxabåd
 operatoer: Rederiet Ravn & Søn A/S
 fra: Bandholm, Kragenæs
 til: Ravnsholm

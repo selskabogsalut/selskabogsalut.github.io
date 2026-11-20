@@ -1,6 +1,7 @@
 ---
 title: Sølvmågen
 description: Privat kapsejladsbåd med løftekøl fra Bandholm.
+type: Privat
 operatoer: Privat
 fra: Bandholm
 til: Smålandsfarvandet

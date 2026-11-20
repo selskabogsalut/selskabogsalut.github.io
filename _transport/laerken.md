@@ -1,6 +1,7 @@
 ---
 title: Lærken
 description: 12 meter yacht, der har sejlet jorden rundt.
+type: Privat
 operatoer: Privat
 fra: Kragenæs
 til: Hele verden

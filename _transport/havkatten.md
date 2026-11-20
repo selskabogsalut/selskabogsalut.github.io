@@ -1,6 +1,7 @@
 ---
 title: Havkatten
 description: Rundfart fra Bandholm forbi øerne.
+type: Rundfart
 operatoer: Bandholm Rundfart
 fra: Bandholm
 til: Rundtur forbi Ravnsholm og Askø

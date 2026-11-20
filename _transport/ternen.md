@@ -1,6 +1,7 @@
 ---
 title: M/S Ternen
 description: Rederiets ældste skib. Sejler træ og papir fra Finland.
+type: Fragtskib
 operatoer: Rederiet Ravn & Søn A/S
 fra: Nakskov
 til: Kotka
