@@ -1,0 +1,420 @@
+﻿fakturanr;fakturadato;leverandoer;leverandoer_adresse;cvr;skib;ydelse;beloeb_dkk_ekskl_moms;godkendt_af;godkendt_dato;godkendt_kl
+SMÅ-2019-991;2019-01-03;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Ternen;Elektrisk service;30942,33;Lone Nørgaard (LNOER);2019-01-11;12:44
+LIT-2019-01;2019-01-08;Lolland IT ApS;Søndergade 14, 4930 Maribo;38 02 51 17;;Økonomisystem, licens og opsætning;412000,00;Torben Lykke (TLYKK);2019-01-17;08:44
+NAK-2019-949;2019-01-10;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;26567,99;Lone Nørgaard (LNOER);2019-01-21;10:10
+SKI-2019-984;2019-01-15;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;11477,37;Lone Nørgaard (LNOER);2019-01-21;11:06
+CRE-2019-316;2019-01-15;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Kragholm II;Bemanding, afløsere;127323,86;Karsten Jespersen (KJESP);2019-01-21;13:26
+SKI-2019-848;2019-01-21;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;8016,29;Lone Nørgaard (LNOER);2019-01-28;15:30
+MAA-2019-932;2019-01-28;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;24428,88;Lone Nørgaard (LNOER);2019-02-04;10:52
+NAK-2019-672;2019-02-04;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Strandskaden;Havneafgift;12189,47;Lone Nørgaard (LNOER);2019-02-11;13:53
+SKI-2019-371;2019-02-12;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;19344,82;Lone Nørgaard (LNOER);2019-02-13;16:02
+MAA-2019-426;2019-02-25;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;34142,56;Lone Nørgaard (LNOER);2019-03-06;15:33
+LOL-2019-5011;2019-03-07;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Ravnsborg;Bundmaling og eftersyn af ror, acontoregning;659083,83;Frederik Ravn (FRAVN);2019-03-11;10:29
+LIT-2019-03;2019-03-12;Lolland IT ApS;Søndergade 14, 4930 Maribo;38 02 51 17;;Økonomisystem, brugeroprettelse og kursus;86500,00;Torben Lykke (TLYKK);2019-03-13;15:34
+SKI-2019-891;2019-03-13;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;18598,16;Lone Nørgaard (LNOER);2019-03-18;08:40
+LOL-2019-2289;2019-03-22;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Ravnsborg;Bundmaling og eftersyn af ror, slutregning;871653,57;Frederik Ravn (FRAVN);2019-03-27;11:56
+BUN-2019-447;2019-03-25;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;336415,56;Karsten Jespersen (KJESP);2019-04-01;16:53
+FOR-2019-63;2019-03-26;Forsikringsselskabet Hav & Skib;Amaliegade 22, 1256 København K;12 45 77 30;;Kaskoforsikring, hele flåden;1450000,00;Frederik Ravn (FRAVN);2019-04-02;08:30
+MAA-2019-688;2019-03-27;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;31660,62;Lone Nørgaard (LNOER);2019-04-01;09:05
+MAA-2019-310;2019-04-02;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;20444,18;Lone Nørgaard (LNOER);2019-04-10;12:34
+BUN-2019-307;2019-04-03;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;363664,43;Frederik Ravn (FRAVN);2019-04-08;08:20
+BRA-2019-66;2019-04-10;Brask Revision;Jernbanegade 6, 4800 Nykøbing F;31 90 18 66;;Revision af årsregnskab;192330,00;Frederik Ravn (FRAVN);2019-04-12;09:00
+NOR-2019-865;2019-04-17;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Kragholm II;Klassesyn;54089,19;Lone Nørgaard (LNOER);2019-04-18;09:47
+BUN-2019-980;2019-04-30;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;287380,16;Frederik Ravn (FRAVN);2019-05-09;08:22
+SKI-2019-574;2019-05-10;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;36266,26;Lone Nørgaard (LNOER);2019-05-15;12:24
+SKI-2019-739;2019-05-15;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;13549,09;Lone Nørgaard (LNOER);2019-05-21;12:53
+BUN-2019-609;2019-05-16;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;352815,29;Frederik Ravn (FRAVN);2019-05-21;15:54
+NAK-2019-435;2019-05-21;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;18203,56;Lone Nørgaard (LNOER);2019-05-27;14:58
+BUN-2019-700;2019-05-27;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;412999,58;Frederik Ravn (FRAVN);2019-05-30;15:14
+SKI-2019-377;2019-05-28;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;24559,56;Lone Nørgaard (LNOER);2019-05-31;14:03
+SKI-2019-212;2019-06-03;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;10904,80;Lone Nørgaard (LNOER);2019-06-06;12:49
+MOT-2019-508;2019-06-03;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Kragholm II;Service på hovedmotor;79780,49;Karsten Jespersen (KJESP);2019-06-10;16:27
+SMÅ-2019-633;2019-06-17;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Strandskaden;Elektrisk service;44277,74;Lone Nørgaard (LNOER);2019-06-25;14:20
+SMÅ-2019-612;2019-07-08;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Lollandia;Elektrisk service;45399,36;Lone Nørgaard (LNOER);2019-07-15;11:50
+SKI-2019-940;2019-07-09;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;15941,21;Lone Nørgaard (LNOER);2019-07-18;11:15
+SKI-2019-444;2019-07-15;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;39718,62;Lone Nørgaard (LNOER);2019-07-24;12:34
+BUN-2019-533;2019-07-22;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;409811,82;Frederik Ravn (FRAVN);2019-07-25;09:47
+CRE-2019-239;2019-07-22;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Strandskaden;Bemanding, afløsere;117340,69;Karsten Jespersen (KJESP);2019-07-30;09:04
+MAA-2019-177;2019-07-24;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;38377,32;Lone Nørgaard (LNOER);2019-07-29;15:02
+BUN-2019-861;2019-08-05;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;369718,37;Frederik Ravn (FRAVN);2019-08-14;09:09
+NOR-2019-182;2019-08-12;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Ternen;Klassesyn;51902,15;Lone Nørgaard (LNOER);2019-08-14;13:19
+NAK-2019-584;2019-08-16;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;7755,18;Lone Nørgaard (LNOER);2019-08-22;10:59
+MOT-2019-559;2019-09-02;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Edderfuglen;Service på hovedmotor;160760,46;Karsten Jespersen (KJESP);2019-09-03;10:53
+BUN-2019-902;2019-09-26;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;248302,54;Karsten Jespersen (KJESP);2019-10-02;11:43
+BAL-2019-3254;2019-10-03;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Edderfuglen;Klassefornyelse, acontoregning;649852,20;Frederik Ravn (FRAVN);2019-10-07;16:42
+SKI-2019-901;2019-10-07;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;18581,77;Lone Nørgaard (LNOER);2019-10-14;13:49
+SMÅ-2019-565;2019-10-07;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;17201,68;Lone Nørgaard (LNOER);2019-10-11;11:50
+NAK-2019-451;2019-10-09;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;18002,55;Lone Nørgaard (LNOER);2019-10-14;08:53
+MAA-2019-814;2019-10-25;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;56421,70;Lone Nørgaard (LNOER);2019-10-30;12:59
+BAL-2019-7606;2019-10-25;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Edderfuglen;Klassefornyelse, slutregning;1405948,50;Frederik Ravn (FRAVN);2019-10-28;16:22
+BUN-2019-236;2019-10-28;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;264183,15;Frederik Ravn (FRAVN);2019-11-01;11:50
+BUN-2019-342;2019-10-28;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;175507,81;Karsten Jespersen (KJESP);2019-10-30;10:20
+SMÅ-2019-267;2019-11-12;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Lollandia;Elektrisk service;9164,36;Lone Nørgaard (LNOER);2019-11-19;12:27
+CRE-2019-308;2019-11-12;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Ravnsborg;Bemanding, afløsere;92932,04;Karsten Jespersen (KJESP);2019-11-18;13:13
+BUN-2019-833;2019-11-22;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;96678,84;Karsten Jespersen (KJESP);2019-11-25;13:33
+MAA-2019-717;2019-11-25;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;37567,56;Lone Nørgaard (LNOER);2019-11-28;12:29
+MOT-2019-494;2019-12-02;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Lollandia;Service på hovedmotor;93882,42;Karsten Jespersen (KJESP);2019-12-09;16:45
+NOR-2019-572;2019-12-23;Nordvik Marine Service AS;Sandviksveien 88, 5035 Bergen;NO 918 442 071;M/S Kragholm II;Reservedele;157731,10;Karsten Jespersen (KJESP);2019-12-27;11:20
+NAK-2020-765;2020-01-06;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;24716,07;Lone Nørgaard (LNOER);2020-01-09;13:07
+SKI-2020-656;2020-01-13;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;16523,52;Lone Nørgaard (LNOER);2020-01-17;16:03
+SKI-2020-211;2020-01-20;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;13718,73;Lone Nørgaard (LNOER);2020-01-28;10:00
+NAK-2020-521;2020-01-22;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;26839,72;Lone Nørgaard (LNOER);2020-01-30;11:24
+SMÅ-2020-472;2020-01-27;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Kragholm II;Elektrisk service;22554,33;Lone Nørgaard (LNOER);2020-02-03;16:09
+BUN-2020-201;2020-02-07;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;360485,92;Frederik Ravn (FRAVN);2020-02-11;09:40
+BUN-2020-198;2020-02-12;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;394957,72;Frederik Ravn (FRAVN);2020-02-17;12:45
+SKI-2020-813;2020-02-12;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;12265,29;Lone Nørgaard (LNOER);2020-02-17;12:29
+BUN-2020-881;2020-02-17;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;245757,03;Karsten Jespersen (KJESP);2020-02-18;11:10
+CRE-2020-653;2020-02-20;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Ternen;Bemanding, afløsere;40997,00;Lone Nørgaard (LNOER);2020-02-24;08:18
+SKI-2020-815;2020-04-02;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;45628,15;Lone Nørgaard (LNOER);2020-04-06;13:14
+LOL-2020-2734;2020-04-02;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Ternen;Bundmaling og nye propelblade, acontoregning;1216934,95;Frederik Ravn (FRAVN);2020-04-13;09:16
+FOR-2020-74;2020-04-03;Forsikringsselskabet Hav & Skib;Amaliegade 22, 1256 København K;12 45 77 30;;Kaskoforsikring, hele flåden;1488000,00;Frederik Ravn (FRAVN);2020-04-10;13:54
+BUN-2020-684;2020-04-06;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;206743,61;Karsten Jespersen (KJESP);2020-04-13;14:45
+MOT-2020-402;2020-04-08;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Edderfuglen;Service på hovedmotor;252897,48;Frederik Ravn (FRAVN);2020-04-15;09:28
+BRA-2020-14;2020-04-17;Brask Revision;Jernbanegade 6, 4800 Nykøbing F;31 90 18 66;;Revision af årsregnskab;192400,00;Frederik Ravn (FRAVN);2020-04-21;15:18
+LOL-2020-3912;2020-04-17;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Ternen;Bundmaling og nye propelblade, slutregning;1842700,79;Frederik Ravn (FRAVN);2020-04-24;16:36
+SKI-2020-545;2020-05-04;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;42710,89;Lone Nørgaard (LNOER);2020-05-11;09:44
+MOT-2020-477;2020-05-04;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Edderfuglen;Service på hovedmotor;43900,68;Lone Nørgaard (LNOER);2020-05-11;12:01
+BUN-2020-924;2020-05-26;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;159965,69;Karsten Jespersen (KJESP);2020-06-01;11:28
+BUN-2020-138;2020-06-08;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;101055,21;Karsten Jespersen (KJESP);2020-06-15;09:49
+MAA-2020-212;2020-06-15;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;12424,16;Lone Nørgaard (LNOER);2020-06-16;09:11
+CRE-2020-358;2020-06-23;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Strandskaden;Bemanding, afløsere;99502,10;Karsten Jespersen (KJESP);2020-06-25;10:16
+BUN-2020-808;2020-07-01;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;212146,63;Karsten Jespersen (KJESP);2020-07-08;13:39
+SKI-2020-930;2020-07-02;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;19637,35;Lone Nørgaard (LNOER);2020-07-09;09:24
+MAA-2020-404;2020-07-02;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;51961,12;Lone Nørgaard (LNOER);2020-07-06;16:11
+MAA-2020-367;2020-07-02;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;20209,41;Lone Nørgaard (LNOER);2020-07-06;08:52
+BUN-2020-314;2020-07-21;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;396985,47;Frederik Ravn (FRAVN);2020-07-27;15:24
+BUN-2020-739;2020-07-22;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;195289,50;Karsten Jespersen (KJESP);2020-07-30;08:45
+MAA-2020-427;2020-08-17;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;57010,93;Lone Nørgaard (LNOER);2020-08-20;11:08
+NOR-2020-262;2020-08-17;Nordvik Marine Service AS;Sandviksveien 88, 5035 Bergen;NO 918 442 071;M/S Kragholm II;Reservedele;149157,47;Karsten Jespersen (KJESP);2020-08-26;09:48
+MOT-2020-935;2020-08-24;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Strandskaden;Service på hovedmotor;94526,58;Karsten Jespersen (KJESP);2020-09-02;09:48
+SMÅ-2020-964;2020-08-31;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Strandskaden;Elektrisk service;19113,10;Lone Nørgaard (LNOER);2020-09-07;11:42
+NAK-2020-899;2020-09-01;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;9703,53;Lone Nørgaard (LNOER);2020-09-03;09:46
+MOT-2020-689;2020-09-01;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Ravnsborg;Service på hovedmotor;172857,59;Karsten Jespersen (KJESP);2020-09-04;12:33
+NAK-2020-137;2020-10-08;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;10994,65;Lone Nørgaard (LNOER);2020-10-13;16:09
+NOR-2020-391;2020-10-14;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Ternen;Klassesyn;94939,20;Karsten Jespersen (KJESP);2020-10-19;16:14
+SKI-2020-551;2020-10-23;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;30715,52;Lone Nørgaard (LNOER);2020-10-28;13:00
+MAA-2020-131;2020-10-26;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;43819,26;Lone Nørgaard (LNOER);2020-11-03;14:28
+SKI-2020-799;2020-10-30;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;28714,74;Lone Nørgaard (LNOER);2020-11-06;10:34
+BUN-2020-972;2020-11-09;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;274917,86;Frederik Ravn (FRAVN);2020-11-17;10:54
+CRE-2020-511;2020-11-09;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Ravnsborg;Bemanding, afløsere;58303,10;Lone Nørgaard (LNOER);2020-11-11;14:39
+NAK-2020-379;2020-11-20;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Strandskaden;Havneafgift;14987,22;Lone Nørgaard (LNOER);2020-11-30;15:21
+NAK-2020-623;2020-12-01;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;29187,16;Lone Nørgaard (LNOER);2020-12-10;11:50
+MAA-2020-880;2020-12-01;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;45402,59;Lone Nørgaard (LNOER);2020-12-04;14:48
+NAK-2020-731;2020-12-03;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;17203,03;Lone Nørgaard (LNOER);2020-12-10;09:29
+SMÅ-2020-256;2020-12-14;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Kragholm II;Elektrisk service;72219,69;Karsten Jespersen (KJESP);2020-12-23;13:48
+NAK-2020-116;2020-12-23;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;6821,42;Lone Nørgaard (LNOER);2020-12-30;14:16
+BUN-2020-766;2020-12-25;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;310807,37;Frederik Ravn (FRAVN);2020-12-28;15:21
+SKI-2021-864;2021-01-18;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;20009,39;Lone Nørgaard (LNOER);2021-01-27;16:03
+MAA-2021-840;2021-01-20;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;44814,56;Lone Nørgaard (LNOER);2021-01-25;11:09
+NOR-2021-970;2021-02-01;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Kragholm II;Klassesyn;94329,23;Karsten Jespersen (KJESP);2021-02-05;08:05
+NMS-2021-001;2021-02-03;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Skrogreparation, forskib;218343,66;Frederik Ravn (FRAVN);2021-02-03;23:48
+LOL-2021-6255;2021-02-04;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Strandskaden;Bundmaling og nye anodeplader, acontoregning;728272,73;Frederik Ravn (FRAVN);2021-02-08;16:22
+BUN-2021-239;2021-02-10;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;93332,83;Karsten Jespersen (KJESP);2021-02-12;12:16
+SKI-2021-557;2021-02-18;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;20979,88;Lone Nørgaard (LNOER);2021-02-24;13:53
+SKI-2021-949;2021-02-19;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;39729,38;Lone Nørgaard (LNOER);2021-02-22;15:46
+LOL-2021-9773;2021-02-19;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Strandskaden;Bundmaling og nye anodeplader, slutregning;963921,78;Frederik Ravn (FRAVN);2021-02-23;16:16
+SKI-2021-621;2021-02-22;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;35830,39;Lone Nørgaard (LNOER);2021-03-01;14:06
+SMÅ-2021-738;2021-02-25;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Lollandia;Elektrisk service;72317,15;Karsten Jespersen (KJESP);2021-03-01;10:45
+NAK-2021-181;2021-03-01;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Strandskaden;Havneafgift;15260,09;Lone Nørgaard (LNOER);2021-03-08;12:21
+SS-2021-031;2021-03-01;Selskab & Salut ApS;Store Kongensgade 61, 1264 København K;37 66 21 04;;Rederiets 50-års jubilæum, reception;148000,00;Frederik Ravn (FRAVN);2021-03-03;10:12
+NMS-2021-002;2021-03-03;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Skrogreparation efter kajskade;143128,10;Frederik Ravn (FRAVN);2021-03-05;19:38
+CRE-2021-138;2021-03-29;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Strandskaden;Bemanding, afløsere;80220,23;Karsten Jespersen (KJESP);2021-03-30;08:33
+SKI-2021-312;2021-04-08;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;23467,06;Lone Nørgaard (LNOER);2021-04-09;09:52
+BUN-2021-764;2021-04-16;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;291940,11;Frederik Ravn (FRAVN);2021-04-22;13:20
+FOR-2021-26;2021-04-19;Forsikringsselskabet Hav & Skib;Amaliegade 22, 1256 København K;12 45 77 30;;Kaskoforsikring, hele flåden;1526000,00;Frederik Ravn (FRAVN);2021-04-26;14:10
+NAK-2021-253;2021-04-21;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;25374,00;Lone Nørgaard (LNOER);2021-04-26;16:57
+BRA-2021-81;2021-04-26;Brask Revision;Jernbanegade 6, 4800 Nykøbing F;31 90 18 66;;Revision af årsregnskab;192470,00;Frederik Ravn (FRAVN);2021-05-03;11:09
+MAA-2021-872;2021-05-04;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;33087,58;Lone Nørgaard (LNOER);2021-05-06;09:53
+SMÅ-2021-877;2021-05-04;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Strandskaden;Elektrisk service;56565,13;Lone Nørgaard (LNOER);2021-05-10;12:19
+SMÅ-2021-856;2021-05-07;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Ternen;Elektrisk service;5243,51;Lone Nørgaard (LNOER);2021-05-10;12:36
+BUN-2021-243;2021-05-10;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;234213,69;Karsten Jespersen (KJESP);2021-05-13;11:45
+MAA-2021-715;2021-05-10;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;29986,55;Lone Nørgaard (LNOER);2021-05-13;16:37
+LOL-2021-3883;2021-05-20;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Lollandia;Bundmaling, acontoregning;627980,92;Frederik Ravn (FRAVN);2021-05-24;10:19
+NMS-2021-003;2021-05-20;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Reservedele, hovedmotor;485502,42;Frederik Ravn (FRAVN);2021-05-20;20:55
+BUN-2021-757;2021-05-31;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;248545,28;Karsten Jespersen (KJESP);2021-06-07;11:05
+NMS-2021-004;2021-05-31;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Reservedele, lastepumper;222335,91;Frederik Ravn (FRAVN);2021-05-31;19:52
+LOL-2021-3191;2021-06-04;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Lollandia;Bundmaling, slutregning;1089980,96;Frederik Ravn (FRAVN);2021-06-07;08:12
+NAK-2021-358;2021-06-14;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;7165,35;Lone Nørgaard (LNOER);2021-06-15;09:07
+SMÅ-2021-148;2021-06-16;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Ternen;Elektrisk service;68957,79;Karsten Jespersen (KJESP);2021-06-21;13:03
+NAK-2021-916;2021-06-21;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;24400,50;Lone Nørgaard (LNOER);2021-06-28;14:34
+MAA-2021-341;2021-06-24;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;17734,13;Lone Nørgaard (LNOER);2021-06-28;11:20
+SKI-2021-887;2021-06-30;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;21423,84;Lone Nørgaard (LNOER);2021-07-09;16:24
+NOR-2021-752;2021-07-06;Nordvik Marine Service AS;Sandviksveien 88, 5035 Bergen;NO 918 442 071;M/S Lollandia;Reservedele;172563,61;Karsten Jespersen (KJESP);2021-07-13;10:35
+MAA-2021-698;2021-07-15;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;20607,65;Lone Nørgaard (LNOER);2021-07-19;14:46
+MAA-2021-478;2021-07-15;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;19185,57;Lone Nørgaard (LNOER);2021-07-23;16:29
+SKI-2021-318;2021-07-19;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;40022,62;Lone Nørgaard (LNOER);2021-07-26;12:15
+SKI-2021-592;2021-07-23;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;18767,52;Lone Nørgaard (LNOER);2021-07-29;10:52
+MAA-2021-201;2021-08-05;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;20384,36;Lone Nørgaard (LNOER);2021-08-09;16:59
+CRE-2021-676;2021-08-05;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Lollandia;Bemanding, afløsere;119088,59;Karsten Jespersen (KJESP);2021-08-06;12:43
+MAA-2021-912;2021-08-09;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;44976,96;Lone Nørgaard (LNOER);2021-08-12;12:08
+MOT-2021-180;2021-08-16;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Strandskaden;Service på hovedmotor;117160,35;Karsten Jespersen (KJESP);2021-08-25;12:20
+BUN-2021-101;2021-08-19;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;293190,71;Frederik Ravn (FRAVN);2021-08-24;16:53
+NMS-2021-005;2021-08-20;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, udskiftning af bundplader;250494,89;Frederik Ravn (FRAVN);2021-08-21;20:32
+SKI-2021-200;2021-09-06;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;10277,22;Lone Nørgaard (LNOER);2021-09-07;16:15
+MOT-2021-958;2021-09-06;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Strandskaden;Service på hovedmotor;88903,70;Karsten Jespersen (KJESP);2021-09-07;08:42
+BUN-2021-461;2021-09-13;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;103745,91;Karsten Jespersen (KJESP);2021-09-21;08:56
+NAK-2021-551;2021-09-14;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;28950,91;Lone Nørgaard (LNOER);2021-09-15;10:45
+NAK-2021-897;2021-09-15;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;18744,94;Lone Nørgaard (LNOER);2021-09-20;16:52
+MOT-2021-948;2021-09-17;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Edderfuglen;Service på hovedmotor;128460,28;Karsten Jespersen (KJESP);2021-09-20;10:59
+BUN-2021-898;2021-09-20;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;111325,76;Karsten Jespersen (KJESP);2021-09-29;14:31
+NAK-2021-950;2021-10-18;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Strandskaden;Havneafgift;21488,78;Lone Nørgaard (LNOER);2021-10-19;15:06
+SKI-2021-674;2021-10-22;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;36092,02;Lone Nørgaard (LNOER);2021-10-25;14:21
+SMÅ-2021-472;2021-11-08;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;29698,15;Lone Nørgaard (LNOER);2021-11-16;15:07
+NOR-2021-548;2021-12-20;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Lollandia;Klassesyn;50158,23;Lone Nørgaard (LNOER);2021-12-24;15:41
+NMS-2022-006;2022-01-12;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, stålarbejde bagbord;434935,83;Frederik Ravn (FRAVN);2022-01-13;12:47
+SKI-2022-362;2022-02-01;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;27913,30;Lone Nørgaard (LNOER);2022-02-07;16:44
+BAL-2022-6500;2022-02-10;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Ravnsborg;Klassefornyelse og bundmaling, acontoregning;1220877,97;Frederik Ravn (FRAVN);2022-02-15;16:54
+NOR-2022-635;2022-02-18;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Ravnsborg;Klassesyn;24839,16;Lone Nørgaard (LNOER);2022-02-21;10:56
+NAK-2022-224;2022-02-21;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;16804,91;Lone Nørgaard (LNOER);2022-02-25;14:13
+NOR-2022-890;2022-02-21;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Edderfuglen;Klassesyn;63814,41;Karsten Jespersen (KJESP);2022-03-02;13:14
+NMS-2022-007;2022-02-21;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Skrogreparation, forskib;215542,94;Frederik Ravn (FRAVN);2022-02-22;19:59
+BAL-2022-8349;2022-02-25;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Ravnsborg;Klassefornyelse og bundmaling, slutregning;1199802,22;Frederik Ravn (FRAVN);2022-03-03;09:44
+BRA-2022-16;2022-03-16;Brask Revision;Jernbanegade 6, 4800 Nykøbing F;31 90 18 66;;Revision af årsregnskab;192540,00;Frederik Ravn (FRAVN);2022-03-24;09:33
+BUN-2022-806;2022-03-23;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;180282,41;Karsten Jespersen (KJESP);2022-04-01;09:29
+SKI-2022-215;2022-04-11;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;24383,50;Lone Nørgaard (LNOER);2022-04-14;12:39
+FOR-2022-14;2022-04-11;Forsikringsselskabet Hav & Skib;Amaliegade 22, 1256 København K;12 45 77 30;;Kaskoforsikring, hele flåden;1564000,00;Frederik Ravn (FRAVN);2022-04-13;14:41
+BUN-2022-593;2022-04-14;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;107926,91;Karsten Jespersen (KJESP);2022-04-18;09:32
+MOT-2022-801;2022-04-22;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Lollandia;Service på hovedmotor;246258,95;Karsten Jespersen (KJESP);2022-05-02;13:58
+BUN-2022-668;2022-05-12;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;140552,49;Karsten Jespersen (KJESP);2022-05-23;08:10
+NMS-2022-008;2022-05-13;NORDVIG MARINE SUPPLY APS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, styremaskine;326685,49;Frederik Ravn (FRAVN);2022-05-14;22:58
+NAK-2022-273;2022-05-18;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;15260,87;Lone Nørgaard (LNOER);2022-05-20;11:45
+SMÅ-2022-208;2022-05-19;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;78985,19;Karsten Jespersen (KJESP);2022-05-23;12:32
+MAA-2022-281;2022-05-20;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;49442,23;Lone Nørgaard (LNOER);2022-05-26;13:13
+NOR-2022-717;2022-05-25;Nordvik Marine Service AS;Sandviksveien 88, 5035 Bergen;NO 918 442 071;M/S Kragholm II;Reservedele;152725,46;Karsten Jespersen (KJESP);2022-05-31;12:38
+SKI-2022-587;2022-05-26;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;37221,70;Lone Nørgaard (LNOER);2022-05-30;11:48
+BUN-2022-418;2022-05-30;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;407165,94;Frederik Ravn (FRAVN);2022-05-31;12:53
+SKI-2022-640;2022-05-30;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;15757,60;Lone Nørgaard (LNOER);2022-06-06;12:20
+CRE-2022-138;2022-06-09;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Strandskaden;Bemanding, afløsere;49752,71;Lone Nørgaard (LNOER);2022-06-14;12:44
+MAA-2022-418;2022-06-14;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;44185,59;Lone Nørgaard (LNOER);2022-06-20;16:29
+NAK-2022-524;2022-06-20;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;19701,94;Lone Nørgaard (LNOER);2022-06-27;09:09
+NAK-2022-203;2022-06-27;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Kragholm II;Havneafgift;20792,60;Lone Nørgaard (LNOER);2022-06-29;13:23
+SMÅ-2022-688;2022-07-08;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Kragholm II;Elektrisk service;71333,58;Karsten Jespersen (KJESP);2022-07-11;10:45
+SMÅ-2022-323;2022-07-20;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;72001,29;Karsten Jespersen (KJESP);2022-07-29;10:08
+NAK-2022-460;2022-07-21;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;9603,74;Lone Nørgaard (LNOER);2022-07-25;09:30
+LOL-2022-9805;2022-07-28;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Kragholm II;Bundmaling og nye skrueaksellejer, acontoregning;904913,09;Frederik Ravn (FRAVN);2022-07-29;08:48
+SKI-2022-773;2022-08-08;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;43223,47;Lone Nørgaard (LNOER);2022-08-10;09:52
+NMS-2022-009;2022-08-10;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, generator;192947,52;Frederik Ravn (FRAVN);2022-08-10;20:15
+LOL-2022-2484;2022-08-12;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Kragholm II;Bundmaling og nye skrueaksellejer, slutregning;1691553,09;Frederik Ravn (FRAVN);2022-08-16;11:31
+SKI-2022-971;2022-08-15;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;32071,18;Lone Nørgaard (LNOER);2022-08-22;16:28
+NAK-2022-120;2022-08-17;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Strandskaden;Havneafgift;28836,60;Lone Nørgaard (LNOER);2022-08-26;08:27
+MAA-2022-416;2022-09-12;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;35743,90;Lone Nørgaard (LNOER);2022-09-19;16:19
+BUN-2022-412;2022-09-15;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;336777,35;Frederik Ravn (FRAVN);2022-09-19;12:36
+MAA-2022-657;2022-09-23;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;26187,16;Lone Nørgaard (LNOER);2022-09-26;16:56
+BUN-2022-665;2022-09-26;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;230986,63;Karsten Jespersen (KJESP);2022-09-27;15:33
+BUN-2022-746;2022-09-26;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;391603,14;Frederik Ravn (FRAVN);2022-10-03;12:24
+CRE-2022-350;2022-10-04;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Lollandia;Bemanding, afløsere;107278,72;Karsten Jespersen (KJESP);2022-10-10;13:00
+SKI-2022-173;2022-10-10;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;9852,10;Lone Nørgaard (LNOER);2022-10-17;15:25
+NMS-2022-010;2022-10-12;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, svejsning af spanter;227357,34;Frederik Ravn (FRAVN);2022-10-14;22:48
+SKI-2022-131;2022-10-13;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;9256,79;Lone Nørgaard (LNOER);2022-10-17;10:59
+BUN-2022-366;2022-10-19;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;299769,73;Frederik Ravn (FRAVN);2022-10-20;15:15
+NMS-2022-011;2022-10-21;NORDVIG MARINE SUPPLY APS;Strandvejen 112, Nakskov;41 23 87 56;M/S Ternen;Reservedele, lastepumper;227190,04;Frederik Ravn (FRAVN);2022-10-24;23:28
+BUN-2022-154;2022-10-27;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;416911,54;Frederik Ravn (FRAVN);2022-11-07;16:16
+MOT-2022-569;2022-11-03;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Strandskaden;Service på hovedmotor;95710,26;Karsten Jespersen (KJESP);2022-11-10;16:59
+MAA-2022-614;2022-11-04;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;14327,71;Lone Nørgaard (LNOER);2022-11-09;10:35
+NMS-2022-012;2022-11-09;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, forskib;456542,05;Frederik Ravn (FRAVN);2022-11-12;22:25
+SMÅ-2022-952;2022-11-14;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Ternen;Elektrisk service;71816,00;Karsten Jespersen (KJESP);2022-11-18;08:48
+BUN-2022-996;2022-11-18;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;404036,83;Frederik Ravn (FRAVN);2022-11-24;13:39
+SKI-2022-516;2022-11-21;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;14272,48;Lone Nørgaard (LNOER);2022-11-28;11:23
+MOT-2022-637;2022-11-22;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Strandskaden;Service på hovedmotor;243743,52;Karsten Jespersen (KJESP);2022-11-25;13:25
+SMÅ-2022-878;2022-11-28;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;14621,80;Lone Nørgaard (LNOER);2022-12-05;10:48
+MAA-2022-749;2022-11-29;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;30506,81;Lone Nørgaard (LNOER);2022-12-07;11:31
+MOT-2022-946;2022-12-12;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Ravnsborg;Service på hovedmotor;42476,55;Lone Nørgaard (LNOER);2022-12-20;12:01
+NAK-2022-824;2022-12-13;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;11873,81;Lone Nørgaard (LNOER);2022-12-19;16:27
+MAA-2022-115;2022-12-19;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;13819,77;Lone Nørgaard (LNOER);2022-12-20;12:51
+CRE-2023-878;2023-01-09;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Ravnsborg;Bemanding, afløsere;37935,90;Lone Nørgaard (LNOER);2023-01-16;09:10
+CRE-2023-223;2023-01-11;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Ternen;Bemanding, afløsere;136281,08;Karsten Jespersen (KJESP);2023-01-17;13:38
+SMÅ-2023-433;2023-01-23;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Kragholm II;Elektrisk service;16456,24;Lone Nørgaard (LNOER);2023-01-31;13:17
+NAK-2023-826;2023-01-25;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;6397,92;Lone Nørgaard (LNOER);2023-01-26;08:45
+NOR-2023-924;2023-01-27;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Ravnsborg;Klassesyn;57893,96;Lone Nørgaard (LNOER);2023-01-30;12:43
+NMS-2023-013;2023-02-07;NORDVIG MARINE SUPPLY APS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation efter kajskade;264390,85;Frederik Ravn (FRAVN);2023-02-10;20:21
+BUN-2023-962;2023-02-08;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;214206,04;Karsten Jespersen (KJESP);2023-02-16;11:40
+NAK-2023-534;2023-02-14;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;21504,43;Lone Nørgaard (LNOER);2023-02-20;14:44
+NAK-2023-336;2023-03-01;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;18526,84;Lone Nørgaard (LNOER);2023-03-08;09:43
+NOR-2023-588;2023-03-02;Nordvik Marine Service AS;Sandviksveien 88, 5035 Bergen;NO 918 442 071;M/S Strandskaden;Reservedele;119058,47;Karsten Jespersen (KJESP);2023-03-10;16:28
+LOL-2023-3571;2023-03-02;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Ternen;Eftersyn af hovedmotor, acontoregning;965481,44;Frederik Ravn (FRAVN);2023-03-06;14:35
+NMS-2023-014;2023-03-03;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Reservedele, styremaskine;471940,72;Frederik Ravn (FRAVN);2023-03-04;21:36
+LOL-2023-7788;2023-03-10;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Ternen;Eftersyn af hovedmotor, slutregning;1588242,64;Frederik Ravn (FRAVN);2023-03-17;08:04
+BUN-2023-153;2023-03-13;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;343133,10;Frederik Ravn (FRAVN);2023-03-17;08:23
+NOR-2023-800;2023-03-13;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Lollandia;Klassesyn;93888,35;Karsten Jespersen (KJESP);2023-03-21;13:56
+SKI-2023-153;2023-03-15;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;9639,50;Lone Nørgaard (LNOER);2023-03-22;09:30
+MAA-2023-304;2023-03-17;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;25239,17;Lone Nørgaard (LNOER);2023-03-23;12:50
+FOR-2023-95;2023-03-17;Forsikringsselskabet Hav & Skib;Amaliegade 22, 1256 København K;12 45 77 30;;Kaskoforsikring, hele flåden;1602000,00;Frederik Ravn (FRAVN);2023-03-24;15:06
+BUN-2023-479;2023-03-22;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;405464,56;Frederik Ravn (FRAVN);2023-03-27;15:33
+SKI-2023-255;2023-03-29;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;43015,00;Lone Nørgaard (LNOER);2023-04-03;11:37
+NMS-2023-015;2023-03-31;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, svejsning af spanter;144321,35;Frederik Ravn (FRAVN);2023-04-01;23:05
+NMS-2023-016;2023-04-07;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, hovedmotor;380769,78;Frederik Ravn (FRAVN);2023-04-09;21:44
+NAK-2023-792;2023-04-11;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;9389,84;Lone Nørgaard (LNOER);2023-04-14;12:25
+SMÅ-2023-276;2023-04-17;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Strandskaden;Elektrisk service;22066,06;Lone Nørgaard (LNOER);2023-04-21;11:44
+NAK-2023-399;2023-04-19;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;22668,36;Lone Nørgaard (LNOER);2023-04-28;08:15
+MAA-2023-737;2023-04-19;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;17362,53;Lone Nørgaard (LNOER);2023-04-25;09:25
+BRA-2023-51;2023-04-24;Brask Revision;Jernbanegade 6, 4800 Nykøbing F;31 90 18 66;;Revision af årsregnskab;192610,00;Frederik Ravn (FRAVN);2023-04-27;14:08
+LOL-2023-4680;2023-05-04;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Edderfuglen;Stålarbejde i lastrum 2, acontoregning;1264644,77;Frederik Ravn (FRAVN);2023-05-10;10:59
+SKI-2023-539;2023-05-15;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;22539,52;Lone Nørgaard (LNOER);2023-05-23;11:33
+MOT-2023-875;2023-05-15;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Ravnsborg;Service på hovedmotor;106254,41;Karsten Jespersen (KJESP);2023-05-22;15:05
+SMÅ-2023-219;2023-05-16;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Lollandia;Elektrisk service;21466,01;Lone Nørgaard (LNOER);2023-05-25;11:13
+LOL-2023-9923;2023-05-19;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Edderfuglen;Stålarbejde i lastrum 2, slutregning;1813449,90;Frederik Ravn (FRAVN);2023-05-22;08:56
+NMS-2023-017;2023-06-05;NORDVIG MARINE SUPPLY APS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Skrogreparation, svejsning af spanter;353946,64;Frederik Ravn (FRAVN);2023-06-06;22:43
+MAA-2023-164;2023-06-06;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;20341,54;Lone Nørgaard (LNOER);2023-06-13;13:38
+SKI-2023-682;2023-06-12;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;13514,42;Lone Nørgaard (LNOER);2023-06-19;16:07
+MOT-2023-620;2023-06-12;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Ternen;Service på hovedmotor;253782,74;Frederik Ravn (FRAVN);2023-06-19;11:19
+MAA-2023-490;2023-06-30;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;32813,12;Lone Nørgaard (LNOER);2023-07-03;14:45
+BUN-2023-840;2023-07-03;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;251888,15;Frederik Ravn (FRAVN);2023-07-07;10:51
+BUN-2023-415;2023-07-03;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;224395,49;Karsten Jespersen (KJESP);2023-07-06;16:19
+SKI-2023-742;2023-07-11;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;8904,10;Lone Nørgaard (LNOER);2023-07-12;08:49
+MOT-2023-730;2023-07-17;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Kragholm II;Service på hovedmotor;68319,05;Karsten Jespersen (KJESP);2023-07-21;14:12
+SKI-2023-561;2023-07-18;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;8360,16;Lone Nørgaard (LNOER);2023-07-21;08:09
+SKI-2023-805;2023-07-21;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;33023,18;Lone Nørgaard (LNOER);2023-07-31;09:43
+BUN-2023-395;2023-08-31;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;140485,78;Karsten Jespersen (KJESP);2023-09-01;11:46
+MOT-2023-463;2023-09-04;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Strandskaden;Service på hovedmotor;240159,76;Karsten Jespersen (KJESP);2023-09-06;14:31
+NMS-2023-018;2023-09-05;Nordvig Marine Supply;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, stålarbejde bagbord;479748,71;Frederik Ravn (FRAVN);2023-09-06;20:54
+BUN-2023-605;2023-09-19;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;154593,67;Karsten Jespersen (KJESP);2023-09-22;10:46
+SKI-2023-749;2023-09-21;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;28567,92;Lone Nørgaard (LNOER);2023-09-29;08:44
+NAK-2023-460;2023-10-09;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Kragholm II;Havneafgift;27352,05;Lone Nørgaard (LNOER);2023-10-18;16:17
+SKI-2023-646;2023-10-13;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;11454,26;Lone Nørgaard (LNOER);2023-10-16;08:36
+MAA-2023-710;2023-10-13;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;30290,76;Lone Nørgaard (LNOER);2023-10-20;16:56
+BUN-2023-975;2023-10-16;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;140592,56;Karsten Jespersen (KJESP);2023-10-23;09:09
+NMS-2023-037;2023-11-02;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, svejsning af spanter;299499,59;Frederik Ravn (FRAVN);2023-11-06;20:54
+NMS-2023-038;2023-11-08;Nordvig Marine Supply;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, udskiftning af bundplader;336574,77;Frederik Ravn (FRAVN);2023-11-10;22:25
+NMS-2023-043;2023-11-10;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Reservedele, hovedmotor;411594,38;Frederik Ravn (FRAVN);2023-11-10;11:20
+CRE-2023-500;2023-11-13;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Ravnsborg;Bemanding, afløsere;104954,95;Karsten Jespersen (KJESP);2023-11-22;09:29
+NMS-2023-044;2023-11-14;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Skrogreparation, stålarbejde bagbord;359421,18;Frederik Ravn (FRAVN);2023-11-16;22:26
+NMS-2023-039;2023-11-17;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, svejsning af spanter;239171,49;Frederik Ravn (FRAVN);2023-11-20;20:16
+SKI-2023-320;2023-11-20;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;12166,67;Lone Nørgaard (LNOER);2023-11-27;13:36
+NMS-2023-045;2023-11-24;Nordvig Marine Supply;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Reservedele, hovedmotor;288254,49;Frederik Ravn (FRAVN);2023-11-27;19:43
+BUN-2023-416;2023-11-27;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;300454,38;Frederik Ravn (FRAVN);2023-12-04;15:26
+NMS-2023-040;2023-11-30;NORDVIG MARINE SUPPLY APS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Reservedele, generator;184566,01;Frederik Ravn (FRAVN);2023-12-02;20:23
+SKI-2023-401;2023-12-04;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;24613,57;Lone Nørgaard (LNOER);2023-12-06;12:32
+NMS-2023-046;2023-12-04;Nordvig Marine Supply;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, styremaskine;479990,35;Frederik Ravn (FRAVN);2023-12-04;23:13
+NMS-2023-041;2023-12-07;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation efter kajskade;270407,52;Frederik Ravn (FRAVN);2023-12-08;22:15
+SKI-2023-777;2023-12-11;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;35395,38;Lone Nørgaard (LNOER);2023-12-20;10:32
+NMS-2023-042;2023-12-15;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, lastepumper;218409,88;Frederik Ravn (FRAVN);2023-12-18;19:08
+NMS-2023-047;2023-12-15;Nordvig Marine Supply ApS;Strandvejen 112, Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation efter kajskade;473220,00;Frederik Ravn (FRAVN);2023-12-18;23:12
+SKI-2024-326;2024-01-08;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;11351,25;Lone Nørgaard (LNOER);2024-01-15;09:09
+NMS-2024-019;2024-01-19;Nordvig Marine Supply ApS ;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, hovedmotor;272239,00;Frederik Ravn (FRAVN);2024-01-22;20:35
+NAK-2024-182;2024-01-23;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;24867,55;Lone Nørgaard (LNOER);2024-01-29;12:17
+BUN-2024-124;2024-01-29;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;369128,94;Frederik Ravn (FRAVN);2024-01-31;10:51
+SKI-2024-336;2024-01-29;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;10830,68;Lone Nørgaard (LNOER);2024-02-05;14:57
+MOT-2024-546;2024-01-29;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Edderfuglen;Service på hovedmotor;165054,25;Karsten Jespersen (KJESP);2024-01-30;15:24
+MAA-2024-487;2024-01-30;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;41385,24;Lone Nørgaard (LNOER);2024-02-08;09:10
+NMS-2024-020;2024-02-02;Nordvig Marine Supply ApS;Strandvej 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, styremaskine;423140,01;Frederik Ravn (FRAVN);2024-02-05;19:53
+CRE-2024-103;2024-02-12;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Kragholm II;Bemanding, afløsere;65119,97;Karsten Jespersen (KJESP);2024-02-13;15:50
+BUN-2024-976;2024-02-13;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;96882,70;Karsten Jespersen (KJESP);2024-02-16;09:34
+SKI-2024-589;2024-03-04;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;29742,72;Lone Nørgaard (LNOER);2024-03-05;09:12
+NAK-2024-621;2024-03-12;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;21034,84;Lone Nørgaard (LNOER);2024-03-15;08:34
+NMS-2024-021;2024-03-18;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, lastepumper;249889,88;Frederik Ravn (FRAVN);2024-03-19;21:23
+BAL-2024-3297;2024-03-21;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Strandskaden;Klassefornyelse, acontoregning;1229360,62;Frederik Ravn (FRAVN);2024-03-22;11:14
+MOT-2024-186;2024-03-27;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Ternen;Service på hovedmotor;50654,11;Lone Nørgaard (LNOER);2024-04-04;15:36
+NMS-2024-022;2024-04-01;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ternen;Reservedele, generator;157668,38;Frederik Ravn (FRAVN);2024-04-02;20:55
+BAL-2024-1601;2024-04-05;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Strandskaden;Klassefornyelse, slutregning;1736489,24;Frederik Ravn (FRAVN);2024-04-08;16:19
+NMS-2024-023;2024-04-16;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, stålarbejde bagbord;177656,35;Frederik Ravn (FRAVN);2024-04-17;20:14
+BRA-2024-74;2024-04-22;Brask Revision;Jernbanegade 6, 4800 Nykøbing F;31 90 18 66;;Revision af årsregnskab;192680,00;Frederik Ravn (FRAVN);2024-04-25;14:44
+FOR-2024-13;2024-04-22;Forsikringsselskabet Hav & Skib;Amaliegade 22, 1256 København K;12 45 77 30;;Kaskoforsikring, hele flåden;1640000,00;Frederik Ravn (FRAVN);2024-04-25;14:01
+NMS-2024-024;2024-05-01;Nordvig Marine Supply ApS;Strandvejen 112, Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation efter kajskade;268013,45;Frederik Ravn (FRAVN);2024-05-01;22:30
+BUN-2024-443;2024-05-02;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;202145,01;Karsten Jespersen (KJESP);2024-05-06;16:13
+SMÅ-2024-709;2024-05-15;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;41753,13;Lone Nørgaard (LNOER);2024-05-24;12:24
+NMS-2024-025;2024-05-21;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, styremaskine;152177,27;Frederik Ravn (FRAVN);2024-05-24;23:59
+MAA-2024-559;2024-05-31;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;46841,60;Lone Nørgaard (LNOER);2024-06-03;10:22
+NMS-2024-026;2024-06-05;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, svejsning af spanter;327943,23;Frederik Ravn (FRAVN);2024-06-07;23:18
+NAK-2024-770;2024-06-10;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;12814,96;Lone Nørgaard (LNOER);2024-06-17;11:55
+BUN-2024-103;2024-06-17;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;419322,06;Frederik Ravn (FRAVN);2024-06-24;09:34
+MAA-2024-586;2024-06-20;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;46996,71;Lone Nørgaard (LNOER);2024-06-24;12:55
+SKI-2024-194;2024-06-24;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;22517,26;Lone Nørgaard (LNOER);2024-06-26;09:54
+SKI-2024-638;2024-07-01;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;22611,37;Lone Nørgaard (LNOER);2024-07-08;09:01
+NAK-2024-227;2024-07-02;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;28426,90;Lone Nørgaard (LNOER);2024-07-08;13:14
+SKI-2024-555;2024-07-03;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;17638,37;Lone Nørgaard (LNOER);2024-07-08;16:27
+NAK-2024-732;2024-07-17;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;6515,80;Lone Nørgaard (LNOER);2024-07-22;11:26
+MOT-2024-566;2024-07-29;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Ternen;Service på hovedmotor;52464,49;Lone Nørgaard (LNOER);2024-08-05;09:50
+NMS-2024-027;2024-08-05;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, lastepumper;171655,53;Frederik Ravn (FRAVN);2024-08-06;22:51
+SMÅ-2024-708;2024-08-21;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Kragholm II;Elektrisk service;68689,37;Karsten Jespersen (KJESP);2024-08-29;11:47
+SKI-2024-375;2024-08-23;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;20090,64;Lone Nørgaard (LNOER);2024-08-30;13:47
+CRE-2024-409;2024-08-29;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Kragholm II;Bemanding, afløsere;89617,82;Karsten Jespersen (KJESP);2024-09-09;11:13
+MAA-2024-523;2024-09-17;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;43485,24;Lone Nørgaard (LNOER);2024-09-23;08:44
+BUN-2024-903;2024-09-18;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;383583,24;Frederik Ravn (FRAVN);2024-09-23;15:10
+SKI-2024-196;2024-09-19;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;20051,58;Lone Nørgaard (LNOER);2024-09-25;13:10
+SMÅ-2024-607;2024-09-24;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Strandskaden;Elektrisk service;59623,58;Lone Nørgaard (LNOER);2024-09-30;14:36
+MAA-2024-632;2024-09-26;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;57006,37;Lone Nørgaard (LNOER);2024-10-03;15:38
+SKI-2024-741;2024-10-02;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;14753,77;Lone Nørgaard (LNOER);2024-10-09;11:41
+NAK-2024-552;2024-10-02;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ternen;Havneafgift;6830,20;Lone Nørgaard (LNOER);2024-10-08;14:38
+SKI-2024-445;2024-10-03;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;30333,58;Lone Nørgaard (LNOER);2024-10-04;09:25
+BUN-2024-409;2024-10-07;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;352479,37;Frederik Ravn (FRAVN);2024-10-10;12:48
+SKI-2024-268;2024-10-14;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;29287,43;Lone Nørgaard (LNOER);2024-10-21;16:11
+MAA-2024-226;2024-10-14;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;20060,05;Lone Nørgaard (LNOER);2024-10-21;09:06
+NMS-2024-028;2024-10-14;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, svejsning af spanter;360484,80;Frederik Ravn (FRAVN);2024-10-15;22:09
+NAK-2024-624;2024-10-16;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Lollandia;Havneafgift;19408,20;Lone Nørgaard (LNOER);2024-10-17;09:09
+NOR-2024-653;2024-10-23;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Strandskaden;Klassesyn;38399,75;Lone Nørgaard (LNOER);2024-10-28;15:36
+NAK-2024-803;2024-10-24;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;10018,92;Lone Nørgaard (LNOER);2024-11-04;10:45
+MAA-2024-3247;2024-10-24;Maasdok B.V.;Waalhaven Z.z. 44, 3089 Rotterdam;NL 8577.10.233;M/S Ravnsborg;Eftersyn af hovedmotor og bovpropel, acontoregning;1172304,05;Frederik Ravn (FRAVN);2024-10-30;13:39
+NOR-2024-976;2024-11-06;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Strandskaden;Klassesyn;41684,58;Lone Nørgaard (LNOER);2024-11-15;09:21
+MAA-2024-2142;2024-11-08;Maasdok B.V.;Waalhaven Z.z. 44, 3089 Rotterdam;NL 8577.10.233;M/S Ravnsborg;Eftersyn af hovedmotor og bovpropel, slutregning;1045405,86;Frederik Ravn (FRAVN);2024-11-13;10:11
+MOT-2024-337;2024-11-26;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Kragholm II;Service på hovedmotor;168826,23;Karsten Jespersen (KJESP);2024-12-03;14:05
+SKI-2024-670;2024-11-28;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;17239,58;Lone Nørgaard (LNOER);2024-12-04;09:09
+BUN-2024-726;2024-12-16;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;409134,99;Frederik Ravn (FRAVN);2024-12-23;12:09
+SMÅ-2024-643;2024-12-16;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Ternen;Elektrisk service;66476,19;Karsten Jespersen (KJESP);2024-12-23;10:14
+NOR-2024-472;2024-12-16;Nordvik Marine Service AS;Sandviksveien 88, 5035 Bergen;NO 918 442 071;M/S Lollandia;Reservedele;82970,97;Karsten Jespersen (KJESP);2024-12-23;14:30
+NMS-2024-029;2024-12-20;Nordvig Marine Supply ApS ;Strandvej 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation efter kajskade;446298,16;Frederik Ravn (FRAVN);2024-12-20;19:01
+BUN-2024-846;2024-12-23;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;147841,61;Karsten Jespersen (KJESP);2024-12-31;11:03
+NMS-2024-030;2024-12-26;NORDVIG MARINE SUPPLY APS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, lastepumper;369462,98;Frederik Ravn (FRAVN);2024-12-29;21:32
+NMS-2025-031;2025-01-09;Nordvig Marine Supply ApS;Strandvejen 112, Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, styremaskine;188388,02;Frederik Ravn (FRAVN);2025-01-11;23:32
+BUN-2025-164;2025-01-13;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;138537,92;Karsten Jespersen (KJESP);2025-01-20;11:37
+SKI-2025-200;2025-01-27;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;21554,00;Lone Nørgaard (LNOER);2025-02-04;09:26
+BUN-2025-611;2025-01-28;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;321567,30;Frederik Ravn (FRAVN);2025-02-06;14:38
+NAK-2025-532;2025-02-03;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;21628,07;Lone Nørgaard (LNOER);2025-02-10;09:47
+NMS-2025-032;2025-02-05;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, forskib;366086,24;Frederik Ravn (FRAVN);2025-02-06;22:46
+SKI-2025-433;2025-02-10;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;25698,12;Lone Nørgaard (LNOER);2025-02-12;12:00
+MAA-2025-380;2025-02-13;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;12787,16;Lone Nørgaard (LNOER);2025-02-19;08:22
+SKI-2025-598;2025-02-14;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Edderfuglen;Proviant;44740,91;Lone Nørgaard (LNOER);2025-02-20;15:32
+BAL-2025-2169;2025-02-20;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Lollandia;Klassefornyelse, acontoregning;1123514,52;Frederik Ravn (FRAVN);2025-02-25;12:17
+SKI-2025-967;2025-02-21;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;41643,36;Lone Nørgaard (LNOER);2025-02-26;11:55
+SKI-2025-568;2025-02-27;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;20551,21;Lone Nørgaard (LNOER);2025-02-28;13:30
+NMS-2025-033;2025-03-04;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, svejsning af spanter;206333,90;Frederik Ravn (FRAVN);2025-03-05;20:31
+BAL-2025-5745;2025-03-07;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Lollandia;Klassefornyelse, slutregning;1672835,61;Frederik Ravn (FRAVN);2025-03-17;11:45
+SKI-2025-786;2025-03-10;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;23043,18;Lone Nørgaard (LNOER);2025-03-12;08:26
+SKI-2025-883;2025-03-13;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;41283,86;Lone Nørgaard (LNOER);2025-03-24;14:34
+BRA-2025-45;2025-03-20;Brask Revision;Jernbanegade 6, 4800 Nykøbing F;31 90 18 66;;Revision af årsregnskab;192750,00;Frederik Ravn (FRAVN);2025-03-31;12:55
+SMÅ-2025-913;2025-03-25;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Kragholm II;Elektrisk service;5615,49;Lone Nørgaard (LNOER);2025-04-03;13:31
+SKI-2025-345;2025-03-31;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;25561,57;Lone Nørgaard (LNOER);2025-04-07;14:23
+BUN-2025-252;2025-04-07;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Edderfuglen;Brændstof;400451,53;Frederik Ravn (FRAVN);2025-04-15;15:13
+FOR-2025-78;2025-04-07;Forsikringsselskabet Hav & Skib;Amaliegade 22, 1256 København K;12 45 77 30;;Kaskoforsikring, hele flåden;1678000,00;Frederik Ravn (FRAVN);2025-04-14;16:28
+CRE-2025-789;2025-04-29;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Edderfuglen;Bemanding, afløsere;111224,59;Karsten Jespersen (KJESP);2025-05-05;13:39
+SKI-2025-156;2025-05-06;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Kragholm II;Proviant;8483,35;Lone Nørgaard (LNOER);2025-05-12;14:08
+MAA-2025-701;2025-05-23;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;57869,52;Lone Nørgaard (LNOER);2025-05-28;12:48
+BUN-2025-788;2025-06-02;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ravnsborg;Brændstof;331828,81;Frederik Ravn (FRAVN);2025-06-09;15:24
+SKI-2025-557;2025-06-06;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Lollandia;Proviant;37626,04;Lone Nørgaard (LNOER);2025-06-09;16:34
+MAA-2025-607;2025-06-09;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;38043,93;Lone Nørgaard (LNOER);2025-06-17;16:17
+SMÅ-2025-296;2025-06-11;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;67837,12;Karsten Jespersen (KJESP);2025-06-13;16:26
+BUN-2025-860;2025-06-23;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Ternen;Brændstof;190258,68;Karsten Jespersen (KJESP);2025-06-24;10:46
+NMS-2025-034;2025-06-30;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Reservedele, lastepumper;341591,30;Frederik Ravn (FRAVN);2025-06-30;21:49
+NAK-2025-173;2025-07-04;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Kragholm II;Havneafgift;20249,64;Lone Nørgaard (LNOER);2025-07-09;13:12
+BUN-2025-961;2025-07-25;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Strandskaden;Brændstof;119484,46;Karsten Jespersen (KJESP);2025-08-04;08:04
+MAA-2025-701;2025-08-01;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;35227,94;Lone Nørgaard (LNOER);2025-08-04;16:01
+SMÅ-2025-816;2025-08-01;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Edderfuglen;Elektrisk service;80543,22;Karsten Jespersen (KJESP);2025-08-04;13:42
+NAK-2025-447;2025-08-05;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;15067,84;Lone Nørgaard (LNOER);2025-08-14;10:33
+NOR-2025-341;2025-08-05;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Lollandia;Klassesyn;22408,02;Lone Nørgaard (LNOER);2025-08-07;15:51
+NAK-2025-427;2025-08-07;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;20464,38;Lone Nørgaard (LNOER);2025-08-13;10:54
+BUN-2025-756;2025-08-13;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Kragholm II;Brændstof;219570,39;Karsten Jespersen (KJESP);2025-08-21;13:17
+SKI-2025-764;2025-08-21;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Strandskaden;Proviant;21228,19;Lone Nørgaard (LNOER);2025-08-29;09:49
+NOR-2025-206;2025-09-02;Nordvik Marine Service AS;Sandviksveien 88, 5035 Bergen;NO 918 442 071;M/S Lollandia;Reservedele;33625,70;Lone Nørgaard (LNOER);2025-09-05;10:22
+CRE-2025-342;2025-09-03;Crewing Baltic OÜ;Sadama 4, 10111 Tallinn;EE 102 334 556;M/S Ravnsborg;Bemanding, afløsere;115617,31;Karsten Jespersen (KJESP);2025-09-11;15:19
+MAA-2025-392;2025-09-04;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;49724,90;Lone Nørgaard (LNOER);2025-09-15;14:55
+MAA-2025-621;2025-09-04;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;31054,86;Lone Nørgaard (LNOER);2025-09-11;10:21
+BAL-2025-7436;2025-09-04;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Ternen;Klassefornyelse og bundmaling, acontoregning;849266,28;Frederik Ravn (FRAVN);2025-09-11;13:48
+NMS-2025-035;2025-09-12;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, udskiftning af bundplader;313221,74;Frederik Ravn (FRAVN);2025-09-15;21:54
+BAL-2025-9917;2025-09-19;Baltic Repair Yard Sp. z o.o.;ul. Na Ostrowiu 15, 80-873 Gdańsk;PL 583 31 00 412;M/S Ternen;Klassefornyelse og bundmaling, slutregning;1026671,77;Frederik Ravn (FRAVN);2025-09-22;12:02
+SKI-2025-962;2025-09-22;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ternen;Proviant;17374,89;Lone Nørgaard (LNOER);2025-09-25;12:41
+NMS-2025-036;2025-09-22;Nordvig Marine Supply ApS;Strandvejen 112, 4900 Nakskov;41 23 87 56;M/S Ravnsborg;Skrogreparation, forskib;350515,86;Frederik Ravn (FRAVN);2025-09-23;23:13
+SKI-2025-758;2025-10-07;Skibsproviant Lolland ApS;Vestre Havnevej 3, 4900 Nakskov;35 12 60 98;M/S Ravnsborg;Proviant;13185,49;Lone Nørgaard (LNOER);2025-10-08;10:55
+NAK-2025-413;2025-10-08;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;19497,77;Lone Nørgaard (LNOER);2025-10-15;15:08
+MOT-2025-700;2025-10-17;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Lollandia;Service på hovedmotor;75988,78;Karsten Jespersen (KJESP);2025-10-27;12:57
+SMÅ-2025-883;2025-10-21;Smålands Skibselektro ApS;Industrivej 9, 4930 Maribo;33 74 05 22;M/S Lollandia;Elektrisk service;33804,55;Lone Nørgaard (LNOER);2025-10-27;11:33
+NAK-2025-309;2025-10-27;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;10516,12;Lone Nørgaard (LNOER);2025-11-03;12:50
+BUN-2025-132;2025-10-28;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;281042,82;Frederik Ravn (FRAVN);2025-10-31;16:24
+LOL-2025-1657;2025-10-30;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Kragholm II;Eftersyn af hovedmotor, acontoregning;1268259,40;Frederik Ravn (FRAVN);2025-11-05;12:48
+MOT-2025-886;2025-11-10;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Ternen;Service på hovedmotor;98883,93;Karsten Jespersen (KJESP);2025-11-13;11:57
+LOL-2025-9570;2025-11-14;Lolland Marineværft A/S;Værftsvej 2, 4900 Nakskov;30 61 22 84;M/S Kragholm II;Eftersyn af hovedmotor, slutregning;976874,26;Frederik Ravn (FRAVN);2025-11-24;08:18
+NAK-2025-532;2025-11-19;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;29364,12;Lone Nørgaard (LNOER);2025-11-21;14:50
+NAK-2025-556;2025-11-24;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Edderfuglen;Havneafgift;9217,07;Lone Nørgaard (LNOER);2025-12-01;09:36
+BUN-2025-365;2025-11-27;Bunker Øst A/S;Havnegade 40, 4900 Nakskov;28 91 44 07;M/S Lollandia;Brændstof;123815,83;Karsten Jespersen (KJESP);2025-12-03;09:50
+NAK-2025-477;2025-12-08;Nakskov Havn;Havnepladsen 1, 4900 Nakskov;29 18 97 41;M/S Ravnsborg;Havneafgift;12099,76;Lone Nørgaard (LNOER);2025-12-10;15:12
+MAA-2025-627;2025-12-15;Maashaven Agency B.V.;Maashaven 12, 3072 Rotterdam;NL 8122.45.761;M/S Ravnsborg;Havneafgift og agentur Rotterdam;39927,62;Lone Nørgaard (LNOER);2025-12-17;09:40
+NOR-2025-237;2025-12-15;Nordisk Skibsklasse;Strandboulevarden 130, 2100 København Ø;21 47 83 50;M/S Kragholm II;Klassesyn;36428,48;Lone Nørgaard (LNOER);2025-12-19;15:11
+MOT-2025-379;2025-12-23;Motorservice Syd A/S;Fabriksvej 21, 4800 Nykøbing F;26 55 13 90;M/S Edderfuglen;Service på hovedmotor;130164,21;Karsten Jespersen (KJESP);2026-01-01;16:01
